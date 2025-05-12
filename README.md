@@ -11,6 +11,11 @@ Names and currency are currently in Portuguese.
 
 A ETL structure usually starts with the understand of the problem, which can be a marketing reseach to be on the right needed track. In this case, we'll be searching for the best laptop on the website.
 
+# Scrapy documentation: https://scrapy.org/
+
+1 - Most commont cli command: Scrapy crawl spider name -o(to save)
+2 - Scrapy shell -> Fetch(url)
+
 # Instructions
 
 1 - Clone the file by using git clone command. Open GIT terminal and type git clone https://github.com/rafael-ceotto/webScrappingETL.git
