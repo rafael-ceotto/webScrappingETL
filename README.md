@@ -17,6 +17,10 @@ A ETL structure usually starts with the understand of the problem, which can be 
 
 2 - Scrapy shell -> Fetch(url)
 
+# Streamlit.io documentation: https://docs.streamlit.io
+
+1 - Most common cli command: streamlit run your-python-script.py
+
 # Instructions
 
 1 - Clone the file by using git clone command. Open GIT terminal and type git clone https://github.com/rafael-ceotto/webScrappingETL.git
@@ -32,7 +36,7 @@ in the terminal.
 
 6 - We will be using sqlite for a database connection but we don't need to install it since it was integrated in the newest python version: 3.13.
 
-7 - To run the dashboard, on the root file, please open the terminal and type streamlit rung src/dash/main.py and it will open a localhost at your selected browser.
+7 - To run the dashboard, on the root file, please open the terminal and type streamlit run src/dash/main.py and it will open a localhost at your selected browser.
 
 8 - For curiosity, if you want to open the mercadolivre.db file in the data folder, I recommend using dbeaver and passing a SQL command there as Select * from laptop
 
