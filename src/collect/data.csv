@@ -1,0 +1,501 @@
+brand,name,seller,reviews_rating_number,reviews_amount,old_money,new_money
+LENOVO,Notebook Lenovo Thinkpad T480 14  I5 8ª 8gb Ssd 256gb,Por Micro Livre ,4.2,(11),1.749,145
+DELL,Notebook Dell Latitude 3400 Core I3-8th  8gb Ssd 256gb W11,,,,1.962,163
+ACER,Notebook Acer Aspire 5 Ryzen 7 15.6 Radeon 512gb 8gb Linux,Por Mobcom ,4.9,(577),3.447,2.799
+LENOVO,Notebook Lenovo LOQ-e 15iax9e Intel Core i5-12450hx 16gb 512gb Ssd Rtx 3050 Windows 11 15.6 - 83me0007br Luna Grey,Por Mobcom ,4.8,(90),9.510,4.599
+SAMSUNG,"Notebook Samsung Galaxy Book4 Intel® Core™ i5-1335U (1.3 Ghz, até 4.6GHz, 12 MB L3 Cache), Windows 11 Home, 8GB, 512GB SSD, Iris Xe, 15.6'' Full HD LED, 1.55kg",Por Samsung ,4.8,(1238),3.899,3.514
+ACER,Notebook Acer Aspire 15 A15-51M-56KR / Intel® Core™ i5-13420H 13ª geração / 16 GB / 512SSD / 15.6” Full HD,Por Vikings ,4.8,(236),4.855,3.059
+ACER,Notebook Acer Aspire 15 555Q Intel Ci5 13gen 8gb 256ssd W11,Por Mercado Livre ,4.8,(276),4.372,2.699
+SAMSUNG,"Notebook Samsung Galaxy Book4 Intel® U300 (1.20 Ghz, até 4.4GHz, 8 MB L3 Cache), Windows 11 Home, 8GB, 256GB SSD, UHD Graphics, 15.6'' Full HD LED, 1.55kg",Por Vikings ,4.8,(6214),3.999,2.799
+ACER,"Notebook Gamer Acer Nitro V ANV15-51-57WS Intel® Core™ i5-13420H 13ªGeração 512SSD 8GB Nvidia® GeForce® RTX 3050 GDDR6 Linux Gutta 15,6'",Por Acer Brasil ,4.8,(2885),5.299,4.799
+ACER,Notebook Gamer Acer Nitro V Intel Core i7 13ª Geração 16GB 512GB RTX4050 Linux Gutta 15.6' FHD ANV15-51-7037,Por Acer Brasil ,4.8,(1470),7.299,6.399
+ACER,"Notebook Gamer Acer Nitro V Intel Core I5 - 13420H, 8GB Ram, 512GB SSD, NVIDIA RTX4050, Windows 11 Home, Tela 15,6"" Full HD - ANV15-51-54DL",Por Acer Brasil ,4.8,(1097),7.299,5.699
+ACER,Notebook Acer Predator Gamer Phn16-71-72w6 I7-13650hx 16gb 512gb Ssd Rtx 4060 Windows 11 Home Tela 16 Wuxga,Por Acer Brasil ,4.9,(611),10.999,8.299
+ACER,"Notebook Acer Aspire 5 Intel Core I5 - 12450H 8GB RAM 256GB SSD Windows 11 Home Tela 15,6"" Full HD A515-57-55B8",Por Mercado Livre ,4.8,(6760),4.117,2.981
+LENOVO,"Notebook Lenovo Ideapad 1 Intel Core i3 1215U 8GB RAM 256GB SSD Windows 11 Home Tela 15,6"" 82VY000SBR",Por NegociuN ,4.8,(4952),3.057,2.509
+,"Notebook Positivo Vision C15 Lumina Bar Celeron, 8GB 128GB eMMC, Tela 15.6"" HD Antirreflexo, Windows 11, Tecla Link, Cinza",Por Positivo ,4.6,(822),2.855,1.799
+LENOVO,"Notebook Lenovo Ideapad 1i Intel Core I3 - 1215U, 4GB RAM, 256GB SSD, Windows 11 Home, Tela 15.6'' - 82VY000TBR Cor cinza",Por NegociuN ,4.8,(1282),2.866,2.321
+LENOVO,Notebook Lenovo Ideapad 1i Celeron Office 365 4gb 128gb W11,Por NegociuN ,4.7,(125),2.407,1.879
+ACER,Notebook Acer Aspire 5 A515-45-r0xr Ryzen7 8gb 256gb Ssd 15.6 Full Hd Linux Gutta,Por Vikings ,4.8,(491),4.141,2.639
+LENOVO,Notebook Lenovo Thinkpad T480 14  I5 8ª 8gb Ssd 256gb,Por Micro Livre ,4.2,(11),1.749,145
+LENOVO,Notebook Lenovo Thinkpad T480 14  I5 8ª 8gb Ssd 256gb,Por Micro Livre ,4.2,(11),1.749,145
+DELL,Notebook Dell Inspiron I15-i120k-a35p I5 16gb 1tb 15.6 W11,Por Mercado Livre ,4.8,(1538),4.399,3.984
+ACER,"Notebook Acer A515-57-5429 Intel Core i5-12450H 16GB RAM 512GB SSD Tela de 15,6'' Linux Gutta",Por Acer Brasil ,4.8,(1079),4.285,2.969
+,"Notebook Positivo Duo 2 em 1 Intel Celeron C4128B-3 4GB 128GB 11,6"" IPS HD Windows 11",Por Positivo ,4.5,(4306),1.649,1.401
+ASUS,"Notebook ASUS Vivobook Go 15 E1504 AMD RYZEN 5 7520U 8GB Ram 256GB SSD Linux KeepOS 15,6” FHD Black E1504FA-NJ731",Por Mercado Livre ,4.7,(598),2.649,2.496
+ASUS,"Notebook ASUS Vivobook 15 Core I5 1235U 3.3 GHz 8GB Ram 256GB SSD W11 Home Tela 15,6” NanoEdge Full HD Cool Silver X1504ZA-NJ985W",Por Mercado Livre ,4.8,(231),3.199,2.853
+ACER,Notebook Acer Aspire 5 A515-45-R36L Ryzen 7 15.6 Radeon 512gb 12gb Linux,Por Mercado Livre ,4.8,(733),4.356,2.993
+,Notebook Positivo Vision C15 Lumina Bar Celeron 4gb 128gb Emmc Tela 15 Hd Antirreflexo Windows 11 Tecla Link Cinza,Por Positivo ,4.6,(2944),1.999,1.452
+,Notebook Positivo Vision C14 Lumina BAR Celeron 4GB 128GB eMMC Tela 14 Polegadas HD Antirreflexo Windows 11 Tecla Link – Cinza,Por Carrefour ,4.6,(3867),1.518,126
+DELL,Notebook Dell Latitude 3400 Core I3-8th  8gb Ssd 256gb W11,,,,1.962,163
+ACER,Notebook Acer Aspire 5 Ryzen 7 15.6 Radeon 512gb 8gb Linux,Por Mobcom ,4.9,(577),3.447,2.799
+LENOVO,Notebook Lenovo LOQ-e 15iax9e Intel Core i5-12450hx 16gb 512gb Ssd Rtx 3050 Windows 11 15.6 - 83me0007br Luna Grey,Por Mobcom ,4.8,(90),9.510,4.599
+SAMSUNG,"Notebook Samsung Galaxy Book4 Intel® Core™ i5-1335U (1.3 Ghz, até 4.6GHz, 12 MB L3 Cache), Windows 11 Home, 8GB, 512GB SSD, Iris Xe, 15.6'' Full HD LED, 1.55kg",Por Samsung ,4.8,(1238),3.899,3.514
+ACER,Notebook Acer Aspire 15 A15-51M-56KR / Intel® Core™ i5-13420H 13ª geração / 16 GB / 512SSD / 15.6” Full HD,Por Vikings ,4.8,(236),4.855,3.059
+ACER,Notebook Acer Aspire 15 555Q Intel Ci5 13gen 8gb 256ssd W11,Por Mercado Livre ,4.8,(276),4.372,2.699
+SAMSUNG,"Notebook Samsung Galaxy Book4 Intel® U300 (1.20 Ghz, até 4.4GHz, 8 MB L3 Cache), Windows 11 Home, 8GB, 256GB SSD, UHD Graphics, 15.6'' Full HD LED, 1.55kg",Por Vikings ,4.8,(6214),3.999,2.799
+ACER,"Notebook Gamer Acer Nitro V ANV15-51-57WS Intel® Core™ i5-13420H 13ªGeração 512SSD 8GB Nvidia® GeForce® RTX 3050 GDDR6 Linux Gutta 15,6'",Por Acer Brasil ,4.8,(2885),5.299,4.799
+ACER,Notebook Gamer Acer Nitro V Intel Core i7 13ª Geração 16GB 512GB RTX4050 Linux Gutta 15.6' FHD ANV15-51-7037,Por Acer Brasil ,4.8,(1470),7.299,6.399
+DELL,Notebook Dell Latitude 3400 Core I3-8th  8gb Ssd 256gb W11,,,,1.962,163
+ACER,Notebook Acer Aspire 5 Ryzen 7 15.6 Radeon 512gb 8gb Linux,Por Mobcom ,4.9,(577),3.447,2.799
+LENOVO,Notebook Lenovo LOQ-e 15iax9e Intel Core i5-12450hx 16gb 512gb Ssd Rtx 3050 Windows 11 15.6 - 83me0007br Luna Grey,Por Mobcom ,4.8,(90),9.510,4.599
+SAMSUNG,"Notebook Samsung Galaxy Book4 Intel® Core™ i5-1335U (1.3 Ghz, até 4.6GHz, 12 MB L3 Cache), Windows 11 Home, 8GB, 512GB SSD, Iris Xe, 15.6'' Full HD LED, 1.55kg",Por Samsung ,4.8,(1238),3.899,3.514
+ACER,Notebook Acer Aspire 15 A15-51M-56KR / Intel® Core™ i5-13420H 13ª geração / 16 GB / 512SSD / 15.6” Full HD,Por Vikings ,4.8,(236),4.855,3.059
+ACER,Notebook Acer Aspire 15 555Q Intel Ci5 13gen 8gb 256ssd W11,Por Mercado Livre ,4.8,(276),4.372,2.699
+SAMSUNG,"Notebook Samsung Galaxy Book4 Intel® U300 (1.20 Ghz, até 4.4GHz, 8 MB L3 Cache), Windows 11 Home, 8GB, 256GB SSD, UHD Graphics, 15.6'' Full HD LED, 1.55kg",Por Vikings ,4.8,(6214),3.999,2.799
+ACER,"Notebook Gamer Acer Nitro V ANV15-51-57WS Intel® Core™ i5-13420H 13ªGeração 512SSD 8GB Nvidia® GeForce® RTX 3050 GDDR6 Linux Gutta 15,6'",Por Acer Brasil ,4.8,(2885),5.299,4.799
+LENOVO,Notebook Lenovo Thinkpad T480 14  I5 8ª 8gb Ssd 256gb,Por Micro Livre ,4.2,(11),1.749,145
+LENOVO,Notebook Lenovo Thinkpad T480 14  I5 8ª 8gb Ssd 256gb,Por Micro Livre ,4.2,(11),1.749,145
+ACER,Notebook Acer Gamer Nitro V15 Intel Core I7 13ª Ger. 16gb 512ssd Rtx3050 Com 6gb Gddr6 Nvidia Geforce Linux Gutta ANV15-51-73E9,Por Vikings ,4.8,(139),8.570,6.099
+ACER,Notebook Acer Nitro V15 ANV15-51-58AZ Core I5-13420h 8gb 512gb Rtx 3050 Cor Preto,Por Mercado Livre ,4.8,(838),7.398,4.935
+DELL,Notebook Dell Inspiron I15-i120k-a15p I3 8gb 512gb 15.6 W11,Por Mercado Livre ,4.8,(664),3.299,3.055
+,"Notebook VSAP VNJH1402 Intel Celeron N4020 de 14,1"", 8 GB de RAM, 256 GB, SSD, Windows 11 Pro Silver",,,,1.419,118
+,"Notebook VAIO FE15 Intel Core i5 12th 16GB 512GB SSD Tela 15,6'' Full HD Antirreflexo Windows 11 Home Cinza Grafite B2621H",Por INPOWER ,4.8,(397),5.639,3.599
+SAMSUNG,Notebook Samsung Galaxy Book4 Windows 11 Home Intel Core I3 8gb 256gb Ssd 15.6'' Full Hd Led 1.55 Kg Grafite,Por 2Eletro ,4.9,(3887),3.590,3.149
+LENOVO,"Notebook Lenovo Ideapad 1i Intel Core i5 - 1235U, 8GB RAM, 512GB SSD, Windows 11 Home, Tela 15,6'' HD - 82VY000QBR",Por Eletro2U ,4.8,(3972),3.999,2.949
+ASUS,"Notebook Asus Vivobook 15 X1504za Intel Core I5 1235u 8gb Ram 256gb Ssd Linux Keepos Tela 15,6 Fhd Blue - Nj982",Por Mercado Livre ,4.7,(182),2.829,2.687
+HP,Notebook Hp 256r G9 Intel Core I3-1315u 15.6 Hd Intel Uhd Graphics 256gb Ssd 8gb Ram Windows 11 Home 64 Sl - AN1A2LA#AK4,Por HP ,4.8,(102),3.799,2.569
+ACER,"Notebook Gamer Acer Nitro V Intel Core I5 - 13420H, 8GB Ram, 512GB SSD, NVIDIA RTX4050, Windows 11 Home, Tela 15,6"" Full HD - ANV15-51-54DL",Por Acer Brasil ,4.8,(1097),7.299,5.699
+ACER,Notebook Acer Predator Gamer Phn16-71-72w6 I7-13650hx 16gb 512gb Ssd Rtx 4060 Windows 11 Home Tela 16 Wuxga,Por Acer Brasil ,4.9,(611),10.999,8.299
+ACER,"Notebook Acer Aspire 5 Intel Core I5 - 12450H 8GB RAM 256GB SSD Windows 11 Home Tela 15,6"" Full HD A515-57-55B8",Por Mercado Livre ,4.8,(6760),4.117,2.981
+LENOVO,"Notebook Lenovo Ideapad 1 Intel Core i3 1215U 8GB RAM 256GB SSD Windows 11 Home Tela 15,6"" 82VY000SBR",Por NegociuN ,4.8,(4950),3.057,2.509
+,"Notebook Positivo Vision C15 Lumina Bar Celeron, 8GB 128GB eMMC, Tela 15.6"" HD Antirreflexo, Windows 11, Tecla Link, Cinza",Por Positivo ,4.6,(822),2.855,1.799
+LENOVO,"Notebook Lenovo Ideapad 1i Intel Core I3 - 1215U, 4GB RAM, 256GB SSD, Windows 11 Home, Tela 15.6'' - 82VY000TBR Cor cinza",Por NegociuN ,4.8,(1282),2.866,2.321
+ACER,Notebook Gamer Acer Nitro V Intel Core i7 13ª Geração 16GB 512GB RTX4050 Linux Gutta 15.6' FHD ANV15-51-7037,Por Acer Brasil ,4.8,(1470),7.299,6.399
+ACER,"Notebook Gamer Acer Nitro V Intel Core I5 - 13420H, 8GB Ram, 512GB SSD, NVIDIA RTX4050, Windows 11 Home, Tela 15,6"" Full HD - ANV15-51-54DL",Por Acer Brasil ,4.8,(1097),7.299,5.699
+ACER,Notebook Acer Predator Gamer Phn16-71-72w6 I7-13650hx 16gb 512gb Ssd Rtx 4060 Windows 11 Home Tela 16 Wuxga,Por Acer Brasil ,4.9,(611),10.999,8.299
+ACER,"Notebook Acer Aspire 5 Intel Core I5 - 12450H 8GB RAM 256GB SSD Windows 11 Home Tela 15,6"" Full HD A515-57-55B8",Por Mercado Livre ,4.8,(6760),4.117,2.981
+LENOVO,"Notebook Lenovo Ideapad 1 Intel Core i3 1215U 8GB RAM 256GB SSD Windows 11 Home Tela 15,6"" 82VY000SBR",Por NegociuN ,4.8,(4950),3.057,2.509
+,"Notebook Positivo Vision C15 Lumina Bar Celeron, 8GB 128GB eMMC, Tela 15.6"" HD Antirreflexo, Windows 11, Tecla Link, Cinza",Por Positivo ,4.6,(822),2.855,1.799
+DELL,Notebook Dell Latitude 3400 Core I3-8th  8gb Ssd 256gb W11,,,,1.962,163
+ACER,Notebook Acer Aspire 5 Ryzen 7 15.6 Radeon 512gb 8gb Linux,Por Mobcom ,4.9,(577),3.447,2.799
+LENOVO,Notebook Lenovo LOQ-e 15iax9e Intel Core i5-12450hx 16gb 512gb Ssd Rtx 3050 Windows 11 15.6 - 83me0007br Luna Grey,Por Mobcom ,4.8,(90),9.510,4.599
+SAMSUNG,"Notebook Samsung Galaxy Book4 Intel® Core™ i5-1335U (1.3 Ghz, até 4.6GHz, 12 MB L3 Cache), Windows 11 Home, 8GB, 512GB SSD, Iris Xe, 15.6'' Full HD LED, 1.55kg",Por Samsung ,4.8,(1238),3.899,3.514
+ACER,Notebook Acer Aspire 15 A15-51M-56KR / Intel® Core™ i5-13420H 13ª geração / 16 GB / 512SSD / 15.6” Full HD,Por Vikings ,4.8,(236),4.855,3.059
+ACER,Notebook Acer Aspire 15 555Q Intel Ci5 13gen 8gb 256ssd W11,Por Mercado Livre ,4.8,(276),4.372,2.699
+SAMSUNG,"Notebook Samsung Galaxy Book4 Intel® U300 (1.20 Ghz, até 4.4GHz, 8 MB L3 Cache), Windows 11 Home, 8GB, 256GB SSD, UHD Graphics, 15.6'' Full HD LED, 1.55kg",Por Vikings ,4.8,(6214),3.999,2.799
+DELL,Notebook Dell Latitude 3400 Core I3-8th  8gb Ssd 256gb W11,,,,1.962,163
+ACER,Notebook Acer Aspire 5 Ryzen 7 15.6 Radeon 512gb 8gb Linux,Por Mobcom ,4.9,(577),3.447,2.799
+LENOVO,Notebook Lenovo LOQ-e 15iax9e Intel Core i5-12450hx 16gb 512gb Ssd Rtx 3050 Windows 11 15.6 - 83me0007br Luna Grey,Por Mobcom ,4.8,(90),9.510,4.599
+SAMSUNG,"Notebook Samsung Galaxy Book4 Intel® Core™ i5-1335U (1.3 Ghz, até 4.6GHz, 12 MB L3 Cache), Windows 11 Home, 8GB, 512GB SSD, Iris Xe, 15.6'' Full HD LED, 1.55kg",Por Samsung ,4.8,(1238),3.899,3.514
+ACER,Notebook Acer Aspire 15 A15-51M-56KR / Intel® Core™ i5-13420H 13ª geração / 16 GB / 512SSD / 15.6” Full HD,Por Vikings ,4.8,(236),4.855,3.059
+ACER,Notebook Acer Aspire 15 555Q Intel Ci5 13gen 8gb 256ssd W11,Por Mercado Livre ,4.8,(276),4.372,2.699
+SAMSUNG,"Notebook Samsung Galaxy Book4 Intel® U300 (1.20 Ghz, até 4.4GHz, 8 MB L3 Cache), Windows 11 Home, 8GB, 256GB SSD, UHD Graphics, 15.6'' Full HD LED, 1.55kg",Por Vikings ,4.8,(6214),3.999,2.799
+ACER,"Notebook Acer Aspire 3 Intel Core I3 - N305, 8G RAM, 256GB SSD, Windows 11 Home, Tela 15,6"" Full HD - A315-510P-34XC 110V/220V",Por Facini Informatica ,4.8,(8161),2.630,252
+DELL,Notebook Dell Inspiron I15-i120k-a10p 15.6 I3 8gb 256gb W11,Por Mercado Livre ,4.8,(1048),3.740,3.553
+ACER,Notebook Acer Gamer Nitro V15 Intel Core i7 13ª Ger. 32GB 512SSD RTX3050 com 6GB GDDR6 Nvidia GeForce Linux Gutta ANV15-51-73BP,Por Vikings ,4.9,(115),8.998,6.299
+ACER,Acer Predator Helios Neo PHN16-72-99MY Intel Ci9 14ªGeração 32GB 1TB SSD RTX4070 Windows11 Cor Preto,Por Acer Brasil ,5.0,(10),14.999,11.999
+ACER,Notebook Acer Aspire 5 A15-51M-54E6 / Intel Core™ i5-13420H de 13ª Geração / 8GB / 512SSD / Windows 11 Home / 15.6” Full HD,Por Acer Brasil ,4.9,(222),3.399,339
+ASUS,"Notebook Asus X515 Intel Celeron Dual Core N4500 4gb Ram 128gb Ssd Windows 11 Home Tela 15,6 Led Hd Slate Grey - Br309ws",Por 2Eletro ,4.7,(232),2.300,1.833
+HP,Notebook Hp 256r G9 Intel Core I5-1335u 15.6 Hd Intel® Iris Xe Graphics 256gb Ssd 16gb Ram Windows 11 Home Pls Sl- Ay6z5la#ak4,Por HP ,4.8,(91),4.799,3.239
+DELL,Notebook Dell Inspiron I15-i120k-a46p I7 16gb 512gb Ssd W11 Cor Preto,Por Mercado Livre ,4.8,(271),4.699,391
+LENOVO,Notebook Lenovo Ideapad 1i Celeron Office 365 4gb 128gb W11,Por NegociuN ,4.7,(125),2.407,1.879
+ACER,Notebook Acer Aspire 5 A515-45-r0xr Ryzen7 8gb 256gb Ssd 15.6 Full Hd Linux Gutta,Por Vikings ,4.8,(491),4.141,2.639
+DELL,Notebook Dell Inspiron I15-i120k-a35p I5 16gb 1tb 15.6 W11,Por Mercado Livre ,4.8,(1538),4.399,3.984
+ACER,"Notebook Acer A515-57-5429 Intel Core i5-12450H 16GB RAM 512GB SSD Tela de 15,6'' Linux Gutta",Por Acer Brasil ,4.8,(1079),4.285,2.969
+,"Notebook Positivo Duo 2 em 1 Intel Celeron C4128B-3 4GB 128GB 11,6"" IPS HD Windows 11",Por Positivo ,4.5,(4306),1.649,1.401
+ASUS,"Notebook ASUS Vivobook Go 15 E1504 AMD RYZEN 5 7520U 8GB Ram 256GB SSD Linux KeepOS 15,6” FHD Black E1504FA-NJ731",Por Mercado Livre ,4.7,(598),2.649,2.496
+ASUS,"Notebook ASUS Vivobook 15 Core I5 1235U 3.3 GHz 8GB Ram 256GB SSD W11 Home Tela 15,6” NanoEdge Full HD Cool Silver X1504ZA-NJ985W",Por Mercado Livre ,4.8,(231),3.199,2.853
+ACER,Notebook Acer Aspire 5 A515-45-R36L Ryzen 7 15.6 Radeon 512gb 12gb Linux,Por Mercado Livre ,4.8,(733),4.356,2.993
+,Notebook Positivo Vision C15 Lumina Bar Celeron 4gb 128gb Emmc Tela 15 Hd Antirreflexo Windows 11 Tecla Link Cinza,Por Positivo ,4.6,(2944),1.999,1.452
+LENOVO,"Notebook Lenovo Ideapad 1i Intel Core I3 - 1215U, 4GB RAM, 256GB SSD, Windows 11 Home, Tela 15.6'' - 82VY000TBR Cor cinza",Por NegociuN ,4.8,(1282),2.866,2.321
+LENOVO,Notebook Lenovo Ideapad 1i Celeron Office 365 4gb 128gb W11,Por NegociuN ,4.7,(125),2.407,1.879
+ACER,Notebook Acer Aspire 5 A515-45-r0xr Ryzen7 8gb 256gb Ssd 15.6 Full Hd Linux Gutta,Por Vikings ,4.8,(491),4.141,2.639
+DELL,Notebook Dell Inspiron I15-i120k-a35p I5 16gb 1tb 15.6 W11,Por Mercado Livre ,4.8,(1538),4.399,3.984
+ACER,"Notebook Acer A515-57-5429 Intel Core i5-12450H 16GB RAM 512GB SSD Tela de 15,6'' Linux Gutta",Por Acer Brasil ,4.8,(1079),4.285,2.969
+,"Notebook Positivo Duo 2 em 1 Intel Celeron C4128B-3 4GB 128GB 11,6"" IPS HD Windows 11",Por Positivo ,4.5,(4306),1.649,1.401
+ASUS,"Notebook ASUS Vivobook Go 15 E1504 AMD RYZEN 5 7520U 8GB Ram 256GB SSD Linux KeepOS 15,6” FHD Black E1504FA-NJ731",Por Mercado Livre ,4.7,(598),2.649,2.496
+ASUS,"Notebook ASUS Vivobook 15 Core I5 1235U 3.3 GHz 8GB Ram 256GB SSD W11 Home Tela 15,6” NanoEdge Full HD Cool Silver X1504ZA-NJ985W",Por Mercado Livre ,4.8,(231),3.199,2.853
+ACER,Notebook Acer Aspire 5 A515-45-R36L Ryzen 7 15.6 Radeon 512gb 12gb Linux,Por Mercado Livre ,4.8,(733),4.356,2.993
+ACER,"Notebook Gamer Acer Nitro V ANV15-51-57WS Intel® Core™ i5-13420H 13ªGeração 512SSD 8GB Nvidia® GeForce® RTX 3050 GDDR6 Linux Gutta 15,6'",Por Acer Brasil ,4.8,(2885),5.299,4.799
+ACER,Notebook Gamer Acer Nitro V Intel Core i7 13ª Geração 16GB 512GB RTX4050 Linux Gutta 15.6' FHD ANV15-51-7037,Por Acer Brasil ,4.8,(1470),7.299,6.399
+ACER,"Notebook Gamer Acer Nitro V Intel Core I5 - 13420H, 8GB Ram, 512GB SSD, NVIDIA RTX4050, Windows 11 Home, Tela 15,6"" Full HD - ANV15-51-54DL",Por Acer Brasil ,4.8,(1097),7.299,5.699
+ACER,Notebook Acer Predator Gamer Phn16-71-72w6 I7-13650hx 16gb 512gb Ssd Rtx 4060 Windows 11 Home Tela 16 Wuxga,Por Acer Brasil ,4.9,(611),10.999,8.299
+ACER,"Notebook Acer Aspire 5 Intel Core I5 - 12450H 8GB RAM 256GB SSD Windows 11 Home Tela 15,6"" Full HD A515-57-55B8",Por Mercado Livre ,4.8,(6760),4.117,2.981
+LENOVO,"Notebook Lenovo Ideapad 1 Intel Core i3 1215U 8GB RAM 256GB SSD Windows 11 Home Tela 15,6"" 82VY000SBR",Por NegociuN ,4.8,(4950),3.057,2.509
+,"Notebook Positivo Vision C15 Lumina Bar Celeron, 8GB 128GB eMMC, Tela 15.6"" HD Antirreflexo, Windows 11, Tecla Link, Cinza",Por Positivo ,4.6,(822),2.855,1.799
+ACER,"Notebook Gamer Acer Nitro V ANV15-51-57WS Intel® Core™ i5-13420H 13ªGeração 512SSD 8GB Nvidia® GeForce® RTX 3050 GDDR6 Linux Gutta 15,6'",Por Acer Brasil ,4.8,(2885),5.299,4.799
+ACER,Notebook Gamer Acer Nitro V Intel Core i7 13ª Geração 16GB 512GB RTX4050 Linux Gutta 15.6' FHD ANV15-51-7037,Por Acer Brasil ,4.8,(1470),7.299,6.399
+ACER,"Notebook Gamer Acer Nitro V Intel Core I5 - 13420H, 8GB Ram, 512GB SSD, NVIDIA RTX4050, Windows 11 Home, Tela 15,6"" Full HD - ANV15-51-54DL",Por Acer Brasil ,4.8,(1097),7.299,5.699
+ACER,Notebook Acer Predator Gamer Phn16-71-72w6 I7-13650hx 16gb 512gb Ssd Rtx 4060 Windows 11 Home Tela 16 Wuxga,Por Acer Brasil ,4.9,(611),10.999,8.299
+ACER,"Notebook Acer Aspire 5 Intel Core I5 - 12450H 8GB RAM 256GB SSD Windows 11 Home Tela 15,6"" Full HD A515-57-55B8",Por Mercado Livre ,4.8,(6760),4.117,2.981
+LENOVO,"Notebook Lenovo Ideapad 1 Intel Core i3 1215U 8GB RAM 256GB SSD Windows 11 Home Tela 15,6"" 82VY000SBR",Por NegociuN ,4.8,(4950),3.057,2.509
+,"Notebook Positivo Vision C15 Lumina Bar Celeron, 8GB 128GB eMMC, Tela 15.6"" HD Antirreflexo, Windows 11, Tecla Link, Cinza",Por Positivo ,4.6,(822),2.855,1.799
+LENOVO,Notebook Lenovo Thinkpad T480 14  I5 8ª 8gb Ssd 256gb,Por Micro Livre ,4.2,(11),1.749,145
+ASUS,"Notebook ASUS Vivobook Go 15 E1504FA-NJ836W AMD Ryzen 5 7520U 2,8 GHz 8GB 512GB SSD Windows 11 Home 15,6"" Full Hd Preto",Por TNT Info ,4.8,(370),3.598,3.078
+ASUS,"Notebook ASUS Vivobook 15 X1504ZA Intel Core i5 1235U 8GB Ram 512GB SSD Windows 11 Tela 15,6"" FHD Blue - NJ987W",Por Fast Shop ,4.9,(426),3.092,309
+,"Notebook Vaio Fe15, Amd® Ryzen 5, 8gb 256gb Ssd, Tela 15,6'' Full Hd Antirreflexo, Linux - Cinza Grafite, Vjfe59f11x-b1711h",Por 123 Comprou ,4.8,(1520),4.831,4.348
+,Notebook Vaio Fe 16 Amd Ryzen 5-5625u Linux 8gb 256gb Ssd Tela 16 Ips Wuxga Antireflexo - Cinza Grafite - Vjfe69f11x-b0411h,Por 123 Comprou ,,,4.998,2.879
+SAMSUNG,"Samsung Chromebook 4 Intel Celeron N4020 4GB 64GB Tela 11.6"" Prata XE310XBA-KT4BR",Por 123 Comprou ,4.5,(251),2.331,1.509
+ASUS,"Notebook ASUS Vivobook Go E1504FA AMD Ryzen 5 7520U 8GB Ram 256GB SSD Windows 11 Tela 15,6"" FHD Black - NJ825W",Por Asus ,4.9,(90),2.975,247
+ASUS,"Notebook Asus Vivobook Go 15 E510ka Intel Celeron Dual Core N4500 4gb Ram 128gb Emmc Windows 11 Home 15,60 Hd Rosa - Br833ws",,4.6,(415),1.989,1.781
+,Notebook Positivo Vision C14 Lumina BAR Celeron 4GB 128GB eMMC Tela 14 Polegadas HD Antirreflexo Windows 11 Tecla Link – Cinza,Por Carrefour ,4.6,(3867),1.518,126
+ACER,Notebook Acer Gamer Nitro V15 Intel Core I7 13ª Ger. 16gb 512ssd Rtx3050 Com 6gb Gddr6 Nvidia Geforce Linux Gutta ANV15-51-73E9,Por Vikings ,4.8,(139),8.570,6.099
+ACER,Notebook Acer Nitro V15 ANV15-51-58AZ Core I5-13420h 8gb 512gb Rtx 3050 Cor Preto,Por Mercado Livre ,4.8,(838),7.398,4.935
+DELL,Notebook Dell Inspiron I15-i120k-a15p I3 8gb 512gb 15.6 W11,Por Mercado Livre ,4.8,(664),3.299,3.055
+,"Notebook VSAP VNJH1402 Intel Celeron N4020 de 14,1"", 8 GB de RAM, 256 GB, SSD, Windows 11 Pro Silver",,,,1.419,118
+,"Notebook VAIO FE15 Intel Core i5 12th 16GB 512GB SSD Tela 15,6'' Full HD Antirreflexo Windows 11 Home Cinza Grafite B2621H",Por INPOWER ,4.8,(397),5.639,3.599
+LENOVO,"Notebook Lenovo Ideapad 1i Intel Core i5 - 1235U, 8GB RAM, 512GB SSD, Windows 11 Home, Tela 15,6'' HD - 82VY000QBR",Por Eletro2U ,4.8,(3972),3.999,2.949
+ASUS,"Notebook Asus Vivobook 15 X1504za Intel Core I5 1235u 8gb Ram 256gb Ssd Linux Keepos Tela 15,6 Fhd Blue - Nj982",Por Mercado Livre ,4.7,(182),2.829,2.687
+HP,Notebook Hp 256r G9 Intel Core I3-1315u 15.6 Hd Intel Uhd Graphics 256gb Ssd 8gb Ram Windows 11 Home 64 Sl - AN1A2LA#AK4,Por HP ,4.8,(102),3.799,2.569
+,Notebook Positivo Vision C15 Lumina Bar Celeron 4gb 128gb Emmc Tela 15 Hd Antirreflexo Windows 11 Tecla Link Cinza,Por Positivo ,4.6,(2944),1.999,1.452
+,Notebook Positivo Vision C14 Lumina BAR Celeron 4GB 128GB eMMC Tela 14 Polegadas HD Antirreflexo Windows 11 Tecla Link – Cinza,Por Carrefour ,4.6,(3867),1.518,126
+ACER,Notebook Acer Gamer Nitro V15 Intel Core I7 13ª Ger. 16gb 512ssd Rtx3050 Com 6gb Gddr6 Nvidia Geforce Linux Gutta ANV15-51-73E9,Por Vikings ,4.8,(139),8.570,6.099
+ACER,Notebook Acer Nitro V15 ANV15-51-58AZ Core I5-13420h 8gb 512gb Rtx 3050 Cor Preto,Por Mercado Livre ,4.8,(838),7.398,4.935
+DELL,Notebook Dell Inspiron I15-i120k-a15p I3 8gb 512gb 15.6 W11,Por Mercado Livre ,4.8,(664),3.299,3.055
+,"Notebook VSAP VNJH1402 Intel Celeron N4020 de 14,1"", 8 GB de RAM, 256 GB, SSD, Windows 11 Pro Silver",,,,1.419,118
+,"Notebook VAIO FE15 Intel Core i5 12th 16GB 512GB SSD Tela 15,6'' Full HD Antirreflexo Windows 11 Home Cinza Grafite B2621H",Por INPOWER ,4.8,(397),5.639,3.599
+LENOVO,"Notebook Lenovo Ideapad 1i Intel Core i5 - 1235U, 8GB RAM, 512GB SSD, Windows 11 Home, Tela 15,6'' HD - 82VY000QBR",Por Eletro2U ,4.8,(3972),3.999,2.949
+SAMSUNG,Notebook Samsung Galaxy Book4 Windows 11 Home Intel Core I3 8gb 256gb Ssd 15.6'' Full Hd Led 1.55 Kg Grafite,Por 2Eletro ,4.9,(3887),3.590,3.149
+ASUS,"Notebook Asus Vivobook 15 X1504za Intel Core I5 1235u 8gb Ram 256gb Ssd Linux Keepos Tela 15,6 Fhd Blue - Nj982",Por Mercado Livre ,4.7,(182),2.829,2.687
+LENOVO,"Notebook Lenovo Ideapad 1i Intel Core I3 - 1215U, 4GB RAM, 256GB SSD, Windows 11 Home, Tela 15.6'' - 82VY000TBR Cor cinza",Por NegociuN ,4.8,(1282),2.866,2.321
+LENOVO,Notebook Lenovo Ideapad 1i Celeron Office 365 4gb 128gb W11,Por NegociuN ,4.7,(125),2.407,1.879
+ACER,Notebook Acer Aspire 5 A515-45-r0xr Ryzen7 8gb 256gb Ssd 15.6 Full Hd Linux Gutta,Por Vikings ,4.8,(491),4.141,2.639
+DELL,Notebook Dell Inspiron I15-i120k-a35p I5 16gb 1tb 15.6 W11,Por Mercado Livre ,4.8,(1538),4.399,3.984
+ACER,"Notebook Acer A515-57-5429 Intel Core i5-12450H 16GB RAM 512GB SSD Tela de 15,6'' Linux Gutta",Por Acer Brasil ,4.8,(1079),4.285,2.969
+,"Notebook Positivo Duo 2 em 1 Intel Celeron C4128B-3 4GB 128GB 11,6"" IPS HD Windows 11",Por Positivo ,4.5,(4306),1.649,1.401
+ASUS,"Notebook ASUS Vivobook Go 15 E1504 AMD RYZEN 5 7520U 8GB Ram 256GB SSD Linux KeepOS 15,6” FHD Black E1504FA-NJ731",Por Mercado Livre ,4.7,(598),2.649,2.496
+ASUS,"Notebook ASUS Vivobook 15 Core I5 1235U 3.3 GHz 8GB Ram 256GB SSD W11 Home Tela 15,6” NanoEdge Full HD Cool Silver X1504ZA-NJ985W",Por Mercado Livre ,4.8,(231),3.199,2.853
+LENOVO,"Notebook Lenovo Ideapad 1i Intel Core I3 - 1215U, 4GB RAM, 256GB SSD, Windows 11 Home, Tela 15.6'' - 82VY000TBR Cor cinza",Por NegociuN ,4.8,(1282),2.866,2.321
+LENOVO,Notebook Lenovo Ideapad 1i Celeron Office 365 4gb 128gb W11,Por NegociuN ,4.7,(125),2.407,1.879
+ACER,Notebook Acer Aspire 5 A515-45-r0xr Ryzen7 8gb 256gb Ssd 15.6 Full Hd Linux Gutta,Por Vikings ,4.8,(491),4.141,2.639
+DELL,Notebook Dell Inspiron I15-i120k-a35p I5 16gb 1tb 15.6 W11,Por Mercado Livre ,4.8,(1538),4.399,3.984
+ACER,"Notebook Acer A515-57-5429 Intel Core i5-12450H 16GB RAM 512GB SSD Tela de 15,6'' Linux Gutta",Por Acer Brasil ,4.8,(1079),4.285,2.969
+,"Notebook Positivo Duo 2 em 1 Intel Celeron C4128B-3 4GB 128GB 11,6"" IPS HD Windows 11",Por Positivo ,4.5,(4306),1.649,1.401
+ASUS,"Notebook ASUS Vivobook Go 15 E1504 AMD RYZEN 5 7520U 8GB Ram 256GB SSD Linux KeepOS 15,6” FHD Black E1504FA-NJ731",Por Mercado Livre ,4.7,(598),2.649,2.496
+ASUS,"Notebook ASUS Vivobook 15 Core I5 1235U 3.3 GHz 8GB Ram 256GB SSD W11 Home Tela 15,6” NanoEdge Full HD Cool Silver X1504ZA-NJ985W",Por Mercado Livre ,4.8,(231),3.199,2.853
+ACER,Notebook Acer Aspire 5 A515-45-R36L Ryzen 7 15.6 Radeon 512gb 12gb Linux,Por Mercado Livre ,4.8,(733),4.356,2.993
+LENOVO,Notebook Lenovo Thinkpad T480 14  I5 8ª 8gb Ssd 256gb,Por Micro Livre ,4.2,(11),1.749,145
+DELL,Notebook Dell Latitude 3400 Core I3-8th  8gb Ssd 256gb W11,,,,1.962,163
+ACER,Notebook Acer Aspire 5 Ryzen 7 15.6 Radeon 512gb 8gb Linux,Por Mobcom ,4.9,(577),3.447,2.799
+LENOVO,Notebook Lenovo LOQ-e 15iax9e Intel Core i5-12450hx 16gb 512gb Ssd Rtx 3050 Windows 11 15.6 - 83me0007br Luna Grey,Por Mobcom ,4.8,(90),9.510,4.599
+SAMSUNG,"Notebook Samsung Galaxy Book4 Intel® Core™ i5-1335U (1.3 Ghz, até 4.6GHz, 12 MB L3 Cache), Windows 11 Home, 8GB, 512GB SSD, Iris Xe, 15.6'' Full HD LED, 1.55kg",Por Samsung ,4.8,(1238),3.899,3.514
+ACER,Notebook Acer Aspire 15 A15-51M-56KR / Intel® Core™ i5-13420H 13ª geração / 16 GB / 512SSD / 15.6” Full HD,Por Vikings ,4.8,(236),4.855,3.059
+ACER,Notebook Acer Aspire 15 555Q Intel Ci5 13gen 8gb 256ssd W11,Por Mercado Livre ,4.8,(276),4.372,2.699
+SAMSUNG,"Notebook Samsung Galaxy Book4 Intel® U300 (1.20 Ghz, até 4.4GHz, 8 MB L3 Cache), Windows 11 Home, 8GB, 256GB SSD, UHD Graphics, 15.6'' Full HD LED, 1.55kg",Por Vikings ,4.8,(6214),3.999,2.799
+ACER,"Notebook Acer Aspire 3 Intel Core I3 - N305, 8G RAM, 256GB SSD, Windows 11 Home, Tela 15,6"" Full HD - A315-510P-34XC 110V/220V",Por Facini Informatica ,4.8,(8161),2.630,252
+DELL,Notebook Dell Inspiron I15-i120k-a10p 15.6 I3 8gb 256gb W11,Por Mercado Livre ,4.8,(1048),3.740,3.553
+ACER,Notebook Acer Gamer Nitro V15 Intel Core i7 13ª Ger. 32GB 512SSD RTX3050 com 6GB GDDR6 Nvidia GeForce Linux Gutta ANV15-51-73BP,Por Vikings ,4.9,(115),8.998,6.299
+ACER,Acer Predator Helios Neo PHN16-72-99MY Intel Ci9 14ªGeração 32GB 1TB SSD RTX4070 Windows11 Cor Preto,Por Acer Brasil ,5.0,(10),14.999,11.999
+ACER,Notebook Acer Aspire 5 A15-51M-54E6 / Intel Core™ i5-13420H de 13ª Geração / 8GB / 512SSD / Windows 11 Home / 15.6” Full HD,Por Acer Brasil ,4.9,(222),3.399,339
+HP,Notebook Hp 256r G9 Intel Core I3-1315u 15.6 Hd Intel Uhd Graphics 256gb Ssd 8gb Ram Windows 11 Home 64 Sl - AN1A2LA#AK4,Por HP ,4.8,(102),3.799,2.569
+ACER,"Notebook Acer Aspire 3 Intel Core I3 - N305, 8G RAM, 256GB SSD, Windows 11 Home, Tela 15,6"" Full HD - A315-510P-34XC 110V/220V",Por Facini Informatica ,4.8,(8161),2.630,252
+DELL,Notebook Dell Inspiron I15-i120k-a10p 15.6 I3 8gb 256gb W11,Por Mercado Livre ,4.8,(1048),3.740,3.553
+ACER,Notebook Acer Gamer Nitro V15 Intel Core i7 13ª Ger. 32GB 512SSD RTX3050 com 6GB GDDR6 Nvidia GeForce Linux Gutta ANV15-51-73BP,Por Vikings ,4.9,(115),8.998,6.299
+ACER,Acer Predator Helios Neo PHN16-72-99MY Intel Ci9 14ªGeração 32GB 1TB SSD RTX4070 Windows11 Cor Preto,Por Acer Brasil ,5.0,(10),14.999,11.999
+ACER,Notebook Acer Aspire 5 A15-51M-54E6 / Intel Core™ i5-13420H de 13ª Geração / 8GB / 512SSD / Windows 11 Home / 15.6” Full HD,Por Acer Brasil ,4.9,(222),3.399,339
+ASUS,"Notebook Asus X515 Intel Celeron Dual Core N4500 4gb Ram 128gb Ssd Windows 11 Home Tela 15,6 Led Hd Slate Grey - Br309ws",Por 2Eletro ,4.7,(232),2.300,1.833
+ACER,Notebook Acer Aspire 5 A515-45-R36L Ryzen 7 15.6 Radeon 512gb 12gb Linux,Por Mercado Livre ,4.8,(733),4.356,2.993
+,Notebook Positivo Vision C15 Lumina Bar Celeron 4gb 128gb Emmc Tela 15 Hd Antirreflexo Windows 11 Tecla Link Cinza,Por Positivo ,4.6,(2944),1.999,1.452
+,Notebook Positivo Vision C14 Lumina BAR Celeron 4GB 128GB eMMC Tela 14 Polegadas HD Antirreflexo Windows 11 Tecla Link – Cinza,Por Carrefour ,4.6,(3867),1.518,126
+ACER,Notebook Acer Gamer Nitro V15 Intel Core I7 13ª Ger. 16gb 512ssd Rtx3050 Com 6gb Gddr6 Nvidia Geforce Linux Gutta ANV15-51-73E9,Por Vikings ,4.8,(139),8.570,6.099
+ACER,Notebook Acer Nitro V15 ANV15-51-58AZ Core I5-13420h 8gb 512gb Rtx 3050 Cor Preto,Por Mercado Livre ,4.8,(838),7.398,4.935
+DELL,Notebook Dell Inspiron I15-i120k-a15p I3 8gb 512gb 15.6 W11,Por Mercado Livre ,4.8,(664),3.299,3.055
+,"Notebook VSAP VNJH1402 Intel Celeron N4020 de 14,1"", 8 GB de RAM, 256 GB, SSD, Windows 11 Pro Silver",,,,1.419,118
+,"Notebook VAIO FE15 Intel Core i5 12th 16GB 512GB SSD Tela 15,6'' Full HD Antirreflexo Windows 11 Home Cinza Grafite B2621H",Por INPOWER ,4.8,(397),5.639,3.599
+,Notebook Positivo Vision C15 Lumina Bar Celeron 4gb 128gb Emmc Tela 15 Hd Antirreflexo Windows 11 Tecla Link Cinza,Por Positivo ,4.6,(2944),1.999,1.452
+,Notebook Positivo Vision C14 Lumina BAR Celeron 4GB 128GB eMMC Tela 14 Polegadas HD Antirreflexo Windows 11 Tecla Link – Cinza,Por Carrefour ,4.6,(3867),1.518,126
+ACER,Notebook Acer Gamer Nitro V15 Intel Core I7 13ª Ger. 16gb 512ssd Rtx3050 Com 6gb Gddr6 Nvidia Geforce Linux Gutta ANV15-51-73E9,Por Vikings ,4.8,(139),8.570,6.099
+ACER,Notebook Acer Nitro V15 ANV15-51-58AZ Core I5-13420h 8gb 512gb Rtx 3050 Cor Preto,Por Mercado Livre ,4.8,(838),7.398,4.935
+DELL,Notebook Dell Inspiron I15-i120k-a15p I3 8gb 512gb 15.6 W11,Por Mercado Livre ,4.8,(664),3.299,3.055
+,"Notebook VSAP VNJH1402 Intel Celeron N4020 de 14,1"", 8 GB de RAM, 256 GB, SSD, Windows 11 Pro Silver",,,,1.419,118
+,"Notebook VAIO FE15 Intel Core i5 12th 16GB 512GB SSD Tela 15,6'' Full HD Antirreflexo Windows 11 Home Cinza Grafite B2621H",Por INPOWER ,4.8,(397),5.639,3.599
+DELL,Notebook Dell Latitude 3400 Core I3-8th  8gb Ssd 256gb W11,,,,1.962,163
+ACER,Notebook Acer Aspire 5 Ryzen 7 15.6 Radeon 512gb 8gb Linux,Por Mobcom ,4.9,(577),3.447,2.799
+LENOVO,Notebook Lenovo LOQ-e 15iax9e Intel Core i5-12450hx 16gb 512gb Ssd Rtx 3050 Windows 11 15.6 - 83me0007br Luna Grey,Por Mobcom ,4.8,(90),9.510,4.599
+SAMSUNG,"Notebook Samsung Galaxy Book4 Intel® Core™ i5-1335U (1.3 Ghz, até 4.6GHz, 12 MB L3 Cache), Windows 11 Home, 8GB, 512GB SSD, Iris Xe, 15.6'' Full HD LED, 1.55kg",Por Samsung ,4.8,(1238),3.899,3.514
+ACER,Notebook Acer Aspire 15 A15-51M-56KR / Intel® Core™ i5-13420H 13ª geração / 16 GB / 512SSD / 15.6” Full HD,Por Vikings ,4.8,(236),4.855,3.059
+ACER,Notebook Acer Aspire 15 555Q Intel Ci5 13gen 8gb 256ssd W11,Por Mercado Livre ,4.8,(276),4.372,2.699
+SAMSUNG,"Notebook Samsung Galaxy Book4 Intel® U300 (1.20 Ghz, até 4.4GHz, 8 MB L3 Cache), Windows 11 Home, 8GB, 256GB SSD, UHD Graphics, 15.6'' Full HD LED, 1.55kg",Por Vikings ,4.8,(6214),3.999,2.799
+ACER,"Notebook Gamer Acer Nitro V ANV15-51-57WS Intel® Core™ i5-13420H 13ªGeração 512SSD 8GB Nvidia® GeForce® RTX 3050 GDDR6 Linux Gutta 15,6'",Por Acer Brasil ,4.8,(2885),5.299,4.799
+ACER,Notebook Gamer Acer Nitro V Intel Core i7 13ª Geração 16GB 512GB RTX4050 Linux Gutta 15.6' FHD ANV15-51-7037,Por Acer Brasil ,4.8,(1470),7.299,6.399
+ACER,"Notebook Gamer Acer Nitro V ANV15-51-57WS Intel® Core™ i5-13420H 13ªGeração 512SSD 8GB Nvidia® GeForce® RTX 3050 GDDR6 Linux Gutta 15,6'",Por Acer Brasil ,4.8,(2885),5.299,4.799
+ACER,Notebook Gamer Acer Nitro V Intel Core i7 13ª Geração 16GB 512GB RTX4050 Linux Gutta 15.6' FHD ANV15-51-7037,Por Acer Brasil ,4.8,(1470),7.299,6.399
+ACER,"Notebook Gamer Acer Nitro V Intel Core I5 - 13420H, 8GB Ram, 512GB SSD, NVIDIA RTX4050, Windows 11 Home, Tela 15,6"" Full HD - ANV15-51-54DL",Por Acer Brasil ,4.8,(1097),7.299,5.699
+ACER,Notebook Acer Predator Gamer Phn16-71-72w6 I7-13650hx 16gb 512gb Ssd Rtx 4060 Windows 11 Home Tela 16 Wuxga,Por Acer Brasil ,4.9,(611),10.999,8.299
+ACER,"Notebook Acer Aspire 5 Intel Core I5 - 12450H 8GB RAM 256GB SSD Windows 11 Home Tela 15,6"" Full HD A515-57-55B8",Por Mercado Livre ,4.8,(6760),4.117,2.981
+LENOVO,"Notebook Lenovo Ideapad 1 Intel Core i3 1215U 8GB RAM 256GB SSD Windows 11 Home Tela 15,6"" 82VY000SBR",Por NegociuN ,4.8,(4950),3.057,2.509
+,"Notebook Positivo Vision C15 Lumina Bar Celeron, 8GB 128GB eMMC, Tela 15.6"" HD Antirreflexo, Windows 11, Tecla Link, Cinza",Por Positivo ,4.6,(822),2.855,1.799
+ASUS,"Notebook Asus X515 Intel Celeron Dual Core N4500 4gb Ram 128gb Ssd Windows 11 Home Tela 15,6 Led Hd Slate Grey - Br309ws",Por 2Eletro ,4.7,(232),2.300,1.833
+HP,Notebook Hp 256r G9 Intel Core I5-1335u 15.6 Hd Intel® Iris Xe Graphics 256gb Ssd 16gb Ram Windows 11 Home Pls Sl- Ay6z5la#ak4,Por HP ,4.8,(91),4.799,3.239
+DELL,Notebook Dell Inspiron I15-i120k-a46p I7 16gb 512gb Ssd W11 Cor Preto,Por Mercado Livre ,4.8,(271),4.699,391
+ASUS,"Notebook ASUS Vivobook Go 15 E1504FA-NJ836W AMD Ryzen 5 7520U 2,8 GHz 8GB 512GB SSD Windows 11 Home 15,6"" Full Hd Preto",Por TNT Info ,4.8,(370),3.598,3.078
+ASUS,"Notebook ASUS Vivobook 15 X1504ZA Intel Core i5 1235U 8GB Ram 512GB SSD Windows 11 Tela 15,6"" FHD Blue - NJ987W",Por Fast Shop ,4.9,(426),3.092,309
+HP,Notebook Hp 256r G9 Intel Core I5-1335u 15.6 Hd Intel® Iris Xe Graphics 256gb Ssd 16gb Ram Windows 11 Home Pls Sl- Ay6z5la#ak4,Por HP ,4.8,(91),4.799,3.239
+DELL,Notebook Dell Inspiron I15-i120k-a46p I7 16gb 512gb Ssd W11 Cor Preto,Por Mercado Livre ,4.8,(271),4.699,391
+ASUS,"Notebook ASUS Vivobook Go 15 E1504FA-NJ836W AMD Ryzen 5 7520U 2,8 GHz 8GB 512GB SSD Windows 11 Home 15,6"" Full Hd Preto",Por TNT Info ,4.8,(370),3.598,3.078
+ASUS,"Notebook ASUS Vivobook 15 X1504ZA Intel Core i5 1235U 8GB Ram 512GB SSD Windows 11 Tela 15,6"" FHD Blue - NJ987W",Por Fast Shop ,4.9,(426),3.092,309
+,"Notebook Vaio Fe15, Amd® Ryzen 5, 8gb 256gb Ssd, Tela 15,6'' Full Hd Antirreflexo, Linux - Cinza Grafite, Vjfe59f11x-b1711h",Por 123 Comprou ,4.8,(1520),4.831,4.348
+,Notebook Vaio Fe 16 Amd Ryzen 5-5625u Linux 8gb 256gb Ssd Tela 16 Ips Wuxga Antireflexo - Cinza Grafite - Vjfe69f11x-b0411h,Por 123 Comprou ,,,4.998,2.879
+SAMSUNG,"Samsung Chromebook 4 Intel Celeron N4020 4GB 64GB Tela 11.6"" Prata XE310XBA-KT4BR",Por 123 Comprou ,4.5,(251),2.331,1.509
+LENOVO,"Notebook Lenovo Ideapad 1i Intel Core i5 - 1235U, 8GB RAM, 512GB SSD, Windows 11 Home, Tela 15,6'' HD - 82VY000QBR",Por Eletro2U ,4.8,(3972),3.999,2.949
+SAMSUNG,Notebook Samsung Galaxy Book4 Windows 11 Home Intel Core I3 8gb 256gb Ssd 15.6'' Full Hd Led 1.55 Kg Grafite,Por 2Eletro ,4.9,(3887),3.590,3.149
+ASUS,"Notebook Asus Vivobook 15 X1504za Intel Core I5 1235u 8gb Ram 256gb Ssd Linux Keepos Tela 15,6 Fhd Blue - Nj982",Por Mercado Livre ,4.7,(182),2.829,2.687
+HP,Notebook Hp 256r G9 Intel Core I3-1315u 15.6 Hd Intel Uhd Graphics 256gb Ssd 8gb Ram Windows 11 Home 64 Sl - AN1A2LA#AK4,Por HP ,4.8,(102),3.799,2.569
+ACER,"Notebook Acer Aspire 3 Intel Core I3 - N305, 8G RAM, 256GB SSD, Windows 11 Home, Tela 15,6"" Full HD - A315-510P-34XC 110V/220V",Por Facini Informatica ,4.8,(8161),2.630,252
+DELL,Notebook Dell Inspiron I15-i120k-a10p 15.6 I3 8gb 256gb W11,Por Mercado Livre ,4.8,(1048),3.740,3.553
+ACER,Notebook Acer Gamer Nitro V15 Intel Core i7 13ª Ger. 32GB 512SSD RTX3050 com 6GB GDDR6 Nvidia GeForce Linux Gutta ANV15-51-73BP,Por Vikings ,4.9,(115),8.998,6.299
+LENOVO,"Notebook Lenovo Ideapad 1i Intel Core i5 - 1235U, 8GB RAM, 512GB SSD, Windows 11 Home, Tela 15,6'' HD - 82VY000QBR",Por Eletro2U ,4.8,(3972),3.999,2.949
+SAMSUNG,Notebook Samsung Galaxy Book4 Windows 11 Home Intel Core I3 8gb 256gb Ssd 15.6'' Full Hd Led 1.55 Kg Grafite,Por 2Eletro ,4.9,(3887),3.590,3.149
+ASUS,"Notebook Asus Vivobook 15 X1504za Intel Core I5 1235u 8gb Ram 256gb Ssd Linux Keepos Tela 15,6 Fhd Blue - Nj982",Por Mercado Livre ,4.7,(182),2.829,2.687
+HP,Notebook Hp 256r G9 Intel Core I3-1315u 15.6 Hd Intel Uhd Graphics 256gb Ssd 8gb Ram Windows 11 Home 64 Sl - AN1A2LA#AK4,Por HP ,4.8,(102),3.799,2.569
+ACER,"Notebook Acer Aspire 3 Intel Core I3 - N305, 8G RAM, 256GB SSD, Windows 11 Home, Tela 15,6"" Full HD - A315-510P-34XC 110V/220V",Por Facini Informatica ,4.8,(8161),2.630,252
+DELL,Notebook Dell Inspiron I15-i120k-a10p 15.6 I3 8gb 256gb W11,Por Mercado Livre ,4.8,(1048),3.740,3.553
+ACER,Notebook Acer Gamer Nitro V15 Intel Core i7 13ª Ger. 32GB 512SSD RTX3050 com 6GB GDDR6 Nvidia GeForce Linux Gutta ANV15-51-73BP,Por Vikings ,4.9,(115),8.998,6.299
+ACER,"Notebook Gamer Acer Nitro V Intel Core I5 - 13420H, 8GB Ram, 512GB SSD, NVIDIA RTX4050, Windows 11 Home, Tela 15,6"" Full HD - ANV15-51-54DL",Por Acer Brasil ,4.8,(1097),7.299,5.699
+ACER,Notebook Acer Predator Gamer Phn16-71-72w6 I7-13650hx 16gb 512gb Ssd Rtx 4060 Windows 11 Home Tela 16 Wuxga,Por Acer Brasil ,4.9,(611),10.999,8.299
+ACER,"Notebook Acer Aspire 5 Intel Core I5 - 12450H 8GB RAM 256GB SSD Windows 11 Home Tela 15,6"" Full HD A515-57-55B8",Por Mercado Livre ,4.8,(6760),4.117,2.981
+LENOVO,"Notebook Lenovo Ideapad 1 Intel Core i3 1215U 8GB RAM 256GB SSD Windows 11 Home Tela 15,6"" 82VY000SBR",Por NegociuN ,4.8,(4950),3.057,2.509
+,"Notebook Positivo Vision C15 Lumina Bar Celeron, 8GB 128GB eMMC, Tela 15.6"" HD Antirreflexo, Windows 11, Tecla Link, Cinza",Por Positivo ,4.6,(822),2.855,1.799
+LENOVO,"Notebook Lenovo Ideapad 1i Intel Core I3 - 1215U, 4GB RAM, 256GB SSD, Windows 11 Home, Tela 15.6'' - 82VY000TBR Cor cinza",Por NegociuN ,4.8,(1282),2.866,2.321
+LENOVO,Notebook Lenovo Ideapad 1i Celeron Office 365 4gb 128gb W11,Por NegociuN ,4.7,(125),2.407,1.879
+ACER,Notebook Acer Aspire 5 A515-45-r0xr Ryzen7 8gb 256gb Ssd 15.6 Full Hd Linux Gutta,Por Vikings ,4.8,(491),4.141,2.639
+LENOVO,"Notebook Lenovo Ideapad 1i Intel Core I3 - 1215U, 4GB RAM, 256GB SSD, Windows 11 Home, Tela 15.6'' - 82VY000TBR Cor cinza",Por NegociuN ,4.8,(1282),2.866,2.321
+LENOVO,Notebook Lenovo Ideapad 1i Celeron Office 365 4gb 128gb W11,Por NegociuN ,4.7,(125),2.407,1.879
+ACER,Notebook Acer Aspire 5 A515-45-r0xr Ryzen7 8gb 256gb Ssd 15.6 Full Hd Linux Gutta,Por Vikings ,4.8,(491),4.141,2.639
+DELL,Notebook Dell Inspiron I15-i120k-a35p I5 16gb 1tb 15.6 W11,Por Mercado Livre ,4.8,(1538),4.399,3.984
+ACER,"Notebook Acer A515-57-5429 Intel Core i5-12450H 16GB RAM 512GB SSD Tela de 15,6'' Linux Gutta",Por Acer Brasil ,4.8,(1079),4.285,2.969
+,"Notebook Positivo Duo 2 em 1 Intel Celeron C4128B-3 4GB 128GB 11,6"" IPS HD Windows 11",Por Positivo ,4.5,(4306),1.649,1.401
+ASUS,"Notebook ASUS Vivobook Go 15 E1504 AMD RYZEN 5 7520U 8GB Ram 256GB SSD Linux KeepOS 15,6” FHD Black E1504FA-NJ731",Por Mercado Livre ,4.7,(598),2.649,2.496
+ASUS,"Notebook ASUS Vivobook 15 Core I5 1235U 3.3 GHz 8GB Ram 256GB SSD W11 Home Tela 15,6” NanoEdge Full HD Cool Silver X1504ZA-NJ985W",Por Mercado Livre ,4.8,(231),3.199,2.853
+ACER,Notebook Acer Aspire 5 A515-45-R36L Ryzen 7 15.6 Radeon 512gb 12gb Linux,Por Mercado Livre ,4.8,(733),4.356,2.993
+,Notebook Positivo Vision C15 Lumina Bar Celeron 4gb 128gb Emmc Tela 15 Hd Antirreflexo Windows 11 Tecla Link Cinza,Por Positivo ,4.6,(2944),1.999,1.452
+,"Notebook Vaio Fe15, Amd® Ryzen 5, 8gb 256gb Ssd, Tela 15,6'' Full Hd Antirreflexo, Linux - Cinza Grafite, Vjfe59f11x-b1711h",Por 123 Comprou ,4.8,(1520),4.831,4.348
+,Notebook Vaio Fe 16 Amd Ryzen 5-5625u Linux 8gb 256gb Ssd Tela 16 Ips Wuxga Antireflexo - Cinza Grafite - Vjfe69f11x-b0411h,Por 123 Comprou ,,,4.998,2.879
+SAMSUNG,"Samsung Chromebook 4 Intel Celeron N4020 4GB 64GB Tela 11.6"" Prata XE310XBA-KT4BR",Por 123 Comprou ,4.5,(251),2.331,1.509
+ASUS,"Notebook ASUS Vivobook Go E1504FA AMD Ryzen 5 7520U 8GB Ram 256GB SSD Windows 11 Tela 15,6"" FHD Black - NJ825W",Por Asus ,4.9,(90),2.975,247
+ASUS,"Notebook Asus Vivobook Go 15 E510ka Intel Celeron Dual Core N4500 4gb Ram 128gb Emmc Windows 11 Home 15,60 Hd Rosa - Br833ws",,4.6,(415),1.989,1.781
+ASUS,"Notebook Asus Vivobook 15 X1504za Intel Core I5 1235u 8gb Ram 512gb Ssd Windows 11 Tela 15,6 Fhd Silver - Nj986w",Por Fast Shop ,4.9,(191),3.092,257
+ASUS,"Notebook ASUS Vivobook Go E1504FA AMD Ryzen 5 7520U 8GB Ram 256GB SSD Windows 11 Tela 15,6"" FHD Black - NJ825W",Por Asus ,4.9,(90),2.975,247
+ASUS,"Notebook Asus Vivobook Go 15 E510ka Intel Celeron Dual Core N4500 4gb Ram 128gb Emmc Windows 11 Home 15,60 Hd Rosa - Br833ws",,4.6,(415),1.989,1.781
+ACER,Acer Predator Helios Neo PHN16-72-99MY Intel Ci9 14ªGeração 32GB 1TB SSD RTX4070 Windows11 Cor Preto,Por Acer Brasil ,5.0,(10),14.999,11.999
+ACER,Notebook Acer Aspire 5 A15-51M-54E6 / Intel Core™ i5-13420H de 13ª Geração / 8GB / 512SSD / Windows 11 Home / 15.6” Full HD,Por Acer Brasil ,4.9,(222),3.399,339
+ASUS,"Notebook Asus X515 Intel Celeron Dual Core N4500 4gb Ram 128gb Ssd Windows 11 Home Tela 15,6 Led Hd Slate Grey - Br309ws",Por 2Eletro ,4.7,(232),2.300,1.833
+HP,Notebook Hp 256r G9 Intel Core I5-1335u 15.6 Hd Intel® Iris Xe Graphics 256gb Ssd 16gb Ram Windows 11 Home Pls Sl- Ay6z5la#ak4,Por HP ,4.8,(91),4.799,3.239
+DELL,Notebook Dell Inspiron I15-i120k-a46p I7 16gb 512gb Ssd W11 Cor Preto,Por Mercado Livre ,4.8,(271),4.699,391
+ASUS,"Notebook ASUS Vivobook Go 15 E1504FA-NJ836W AMD Ryzen 5 7520U 2,8 GHz 8GB 512GB SSD Windows 11 Home 15,6"" Full Hd Preto",Por TNT Info ,4.8,(370),3.598,3.078
+ACER,Acer Predator Helios Neo PHN16-72-99MY Intel Ci9 14ªGeração 32GB 1TB SSD RTX4070 Windows11 Cor Preto,Por Acer Brasil ,5.0,(10),14.999,11.999
+ACER,Notebook Acer Aspire 5 A15-51M-54E6 / Intel Core™ i5-13420H de 13ª Geração / 8GB / 512SSD / Windows 11 Home / 15.6” Full HD,Por Acer Brasil ,4.9,(222),3.399,339
+ASUS,"Notebook Asus X515 Intel Celeron Dual Core N4500 4gb Ram 128gb Ssd Windows 11 Home Tela 15,6 Led Hd Slate Grey - Br309ws",Por 2Eletro ,4.7,(232),2.300,1.833
+HP,Notebook Hp 256r G9 Intel Core I5-1335u 15.6 Hd Intel® Iris Xe Graphics 256gb Ssd 16gb Ram Windows 11 Home Pls Sl- Ay6z5la#ak4,Por HP ,4.8,(91),4.799,3.239
+DELL,Notebook Dell Inspiron I15-i120k-a46p I7 16gb 512gb Ssd W11 Cor Preto,Por Mercado Livre ,4.8,(271),4.699,391
+ASUS,"Notebook ASUS Vivobook Go 15 E1504FA-NJ836W AMD Ryzen 5 7520U 2,8 GHz 8GB 512GB SSD Windows 11 Home 15,6"" Full Hd Preto",Por TNT Info ,4.8,(370),3.598,3.078
+ASUS,"Notebook ASUS Vivobook 15 X1504ZA Intel Core i5 1235U 8GB Ram 512GB SSD Windows 11 Tela 15,6"" FHD Blue - NJ987W",Por Fast Shop ,4.9,(426),3.092,309
+,"Notebook Vaio Fe15, Amd® Ryzen 5, 8gb 256gb Ssd, Tela 15,6'' Full Hd Antirreflexo, Linux - Cinza Grafite, Vjfe59f11x-b1711h",Por 123 Comprou ,4.8,(1520),4.831,4.348
+DELL,Notebook Dell Inspiron I15-i120k-a35p I5 16gb 1tb 15.6 W11,Por Mercado Livre ,4.8,(1538),4.399,3.984
+ACER,"Notebook Acer A515-57-5429 Intel Core i5-12450H 16GB RAM 512GB SSD Tela de 15,6'' Linux Gutta",Por Acer Brasil ,4.8,(1079),4.285,2.969
+,"Notebook Positivo Duo 2 em 1 Intel Celeron C4128B-3 4GB 128GB 11,6"" IPS HD Windows 11",Por Positivo ,4.5,(4306),1.649,1.401
+ASUS,"Notebook ASUS Vivobook Go 15 E1504 AMD RYZEN 5 7520U 8GB Ram 256GB SSD Linux KeepOS 15,6” FHD Black E1504FA-NJ731",Por Mercado Livre ,4.7,(598),2.649,2.496
+ASUS,"Notebook ASUS Vivobook 15 Core I5 1235U 3.3 GHz 8GB Ram 256GB SSD W11 Home Tela 15,6” NanoEdge Full HD Cool Silver X1504ZA-NJ985W",Por Mercado Livre ,4.8,(231),3.199,2.853
+ACER,Notebook Acer Aspire 5 A515-45-R36L Ryzen 7 15.6 Radeon 512gb 12gb Linux,Por Mercado Livre ,4.8,(733),4.356,2.993
+,Notebook Positivo Vision C14 Lumina BAR Celeron 4GB 128GB eMMC Tela 14 Polegadas HD Antirreflexo Windows 11 Tecla Link – Cinza,Por Carrefour ,4.6,(3867),1.518,126
+ACER,Notebook Acer Gamer Nitro V15 Intel Core I7 13ª Ger. 16gb 512ssd Rtx3050 Com 6gb Gddr6 Nvidia Geforce Linux Gutta ANV15-51-73E9,Por Vikings ,4.8,(139),8.570,6.099
+ACER,Notebook Acer Nitro V15 ANV15-51-58AZ Core I5-13420h 8gb 512gb Rtx 3050 Cor Preto,Por Mercado Livre ,4.8,(838),7.398,4.935
+DELL,Notebook Dell Inspiron I15-i120k-a15p I3 8gb 512gb 15.6 W11,Por Mercado Livre ,4.8,(664),3.299,3.055
+,"Notebook VSAP VNJH1402 Intel Celeron N4020 de 14,1"", 8 GB de RAM, 256 GB, SSD, Windows 11 Pro Silver",,,,1.419,118
+,"Notebook VAIO FE15 Intel Core i5 12th 16GB 512GB SSD Tela 15,6'' Full HD Antirreflexo Windows 11 Home Cinza Grafite B2621H",Por INPOWER ,4.8,(397),5.639,3.599
+SAMSUNG,Notebook Samsung Galaxy Book4 Windows 11 Home Intel Core I3 8gb 256gb Ssd 15.6'' Full Hd Led 1.55 Kg Grafite,Por 2Eletro ,4.9,(3887),3.590,3.149
+ASUS,"Notebook Asus Vivobook 15 X1504za Intel Core I5 1235u 8gb Ram 256gb Ssd Linux Keepos Tela 15,6 Fhd Blue - Nj982",Por Mercado Livre ,4.7,(182),2.829,2.687
+ASUS,"Notebook ASUS Vivobook 15 X1504ZA Intel Core i5 1235U 8GB Ram 512GB SSD Windows 11 Tela 15,6"" FHD Blue - NJ987W",Por Fast Shop ,4.9,(426),3.092,309
+,"Notebook Vaio Fe15, Amd® Ryzen 5, 8gb 256gb Ssd, Tela 15,6'' Full Hd Antirreflexo, Linux - Cinza Grafite, Vjfe59f11x-b1711h",Por 123 Comprou ,4.8,(1520),4.831,4.348
+,Notebook Vaio Fe 16 Amd Ryzen 5-5625u Linux 8gb 256gb Ssd Tela 16 Ips Wuxga Antireflexo - Cinza Grafite - Vjfe69f11x-b0411h,Por 123 Comprou ,,,4.998,2.879
+SAMSUNG,"Samsung Chromebook 4 Intel Celeron N4020 4GB 64GB Tela 11.6"" Prata XE310XBA-KT4BR",Por 123 Comprou ,4.5,(251),2.331,1.509
+ASUS,"Notebook ASUS Vivobook Go E1504FA AMD Ryzen 5 7520U 8GB Ram 256GB SSD Windows 11 Tela 15,6"" FHD Black - NJ825W",Por Asus ,4.9,(90),2.975,247
+ASUS,"Notebook Asus Vivobook Go 15 E510ka Intel Celeron Dual Core N4500 4gb Ram 128gb Emmc Windows 11 Home 15,60 Hd Rosa - Br833ws",,4.6,(415),1.989,1.781
+,Notebook Vaio Fe 16 Amd Ryzen 5-5625u Linux 8gb 256gb Ssd Tela 16 Ips Wuxga Antireflexo - Cinza Grafite - Vjfe69f11x-b0411h,Por 123 Comprou ,,,4.998,2.879
+SAMSUNG,"Samsung Chromebook 4 Intel Celeron N4020 4GB 64GB Tela 11.6"" Prata XE310XBA-KT4BR",Por 123 Comprou ,4.5,(251),2.331,1.509
+ASUS,"Notebook ASUS Vivobook Go E1504FA AMD Ryzen 5 7520U 8GB Ram 256GB SSD Windows 11 Tela 15,6"" FHD Black - NJ825W",Por Asus ,4.9,(90),2.975,247
+ASUS,"Notebook Asus Vivobook Go 15 E510ka Intel Celeron Dual Core N4500 4gb Ram 128gb Emmc Windows 11 Home 15,60 Hd Rosa - Br833ws",,4.6,(415),1.989,1.781
+,Notebook Positivo Vision C15 Lumina Bar Celeron 4gb 128gb Emmc Tela 15 Hd Antirreflexo Windows 11 Tecla Link Cinza,Por Positivo ,4.6,(2944),1.999,1.452
+,Notebook Positivo Vision C14 Lumina BAR Celeron 4GB 128GB eMMC Tela 14 Polegadas HD Antirreflexo Windows 11 Tecla Link – Cinza,Por Carrefour ,4.6,(3867),1.518,126
+ACER,Notebook Acer Gamer Nitro V15 Intel Core I7 13ª Ger. 16gb 512ssd Rtx3050 Com 6gb Gddr6 Nvidia Geforce Linux Gutta ANV15-51-73E9,Por Vikings ,4.8,(139),8.570,6.099
+ACER,Notebook Acer Nitro V15 ANV15-51-58AZ Core I5-13420h 8gb 512gb Rtx 3050 Cor Preto,Por Mercado Livre ,4.8,(838),7.398,4.935
+DELL,Notebook Dell Inspiron I15-i120k-a15p I3 8gb 512gb 15.6 W11,Por Mercado Livre ,4.8,(664),3.299,3.055
+,"Notebook VSAP VNJH1402 Intel Celeron N4020 de 14,1"", 8 GB de RAM, 256 GB, SSD, Windows 11 Pro Silver",,,,1.419,118
+,"Notebook VAIO FE15 Intel Core i5 12th 16GB 512GB SSD Tela 15,6'' Full HD Antirreflexo Windows 11 Home Cinza Grafite B2621H",Por INPOWER ,4.8,(397),5.639,3.599
+HP,Notebook Hp 256r G9 Intel Core I3-1315u 15.6 Hd Intel Uhd Graphics 256gb Ssd 8gb Ram Windows 11 Home 64 Sl - AN1A2LA#AK4,Por HP ,4.8,(102),3.799,2.569
+ACER,"Notebook Acer Aspire 3 Intel Core I3 - N305, 8G RAM, 256GB SSD, Windows 11 Home, Tela 15,6"" Full HD - A315-510P-34XC 110V/220V",Por Facini Informatica ,4.8,(8161),2.630,252
+LENOVO,"Notebook Lenovo Ideapad 1i Intel Core i5 - 1235U, 8GB RAM, 512GB SSD, Windows 11 Home, Tela 15,6'' HD - 82VY000QBR",Por Eletro2U ,4.8,(3972),3.999,2.949
+DELL,Notebook Dell Inspiron I15-i120k-a10p 15.6 I3 8gb 256gb W11,Por Mercado Livre ,4.8,(1048),3.740,3.553
+ACER,Notebook Acer Gamer Nitro V15 Intel Core i7 13ª Ger. 32GB 512SSD RTX3050 com 6GB GDDR6 Nvidia GeForce Linux Gutta ANV15-51-73BP,Por Vikings ,4.9,(115),8.998,6.299
+ACER,Acer Predator Helios Neo PHN16-72-99MY Intel Ci9 14ªGeração 32GB 1TB SSD RTX4070 Windows11 Cor Preto,Por Acer Brasil ,5.0,(10),14.999,11.999
+ASUS,"Notebook ASUS Vivobook Go 15 E1504FA-NJ836W AMD Ryzen 5 7520U 2,8 GHz 8GB 512GB SSD Windows 11 Home 15,6"" Full Hd Preto",Por TNT Info ,4.8,(370),3.598,3.078
+ACER,Notebook Acer Aspire 5 A15-51M-54E6 / Intel Core™ i5-13420H de 13ª Geração / 8GB / 512SSD / Windows 11 Home / 15.6” Full HD,Por Acer Brasil ,4.9,(222),3.399,339
+SAMSUNG,Notebook Samsung Galaxy Book4 Windows 11 Home Intel Core I3 8gb 256gb Ssd 15.6'' Full Hd Led 1.55 Kg Grafite,Por 2Eletro ,4.9,(3887),3.590,3.149
+ASUS,"Notebook Asus Vivobook 15 X1504za Intel Core I5 1235u 8gb Ram 256gb Ssd Linux Keepos Tela 15,6 Fhd Blue - Nj982",Por Mercado Livre ,4.7,(182),2.829,2.687
+HP,Notebook Hp 256r G9 Intel Core I3-1315u 15.6 Hd Intel Uhd Graphics 256gb Ssd 8gb Ram Windows 11 Home 64 Sl - AN1A2LA#AK4,Por HP ,4.8,(102),3.799,2.569
+ACER,"Notebook Acer Aspire 3 Intel Core I3 - N305, 8G RAM, 256GB SSD, Windows 11 Home, Tela 15,6"" Full HD - A315-510P-34XC 110V/220V",Por Facini Informatica ,4.8,(8161),2.630,252
+LENOVO,"Notebook Lenovo Ideapad 1i Intel Core i5 - 1235U, 8GB RAM, 512GB SSD, Windows 11 Home, Tela 15,6'' HD - 82VY000QBR",Por INPOWER ,4.8,(3972),4.399,3.104
+DELL,Notebook Dell Inspiron I15-i120k-a10p 15.6 I3 8gb 256gb W11,Por Mercado Livre ,4.8,(1048),3.740,3.553
+ACER,Notebook Acer Gamer Nitro V15 Intel Core i7 13ª Ger. 32GB 512SSD RTX3050 com 6GB GDDR6 Nvidia GeForce Linux Gutta ANV15-51-73BP,Por Vikings ,4.9,(115),8.998,6.299
+ACER,Acer Predator Helios Neo PHN16-72-99MY Intel Ci9 14ªGeração 32GB 1TB SSD RTX4070 Windows11 Cor Preto,Por Acer Brasil ,5.0,(10),14.999,11.999
+ASUS,"Notebook ASUS Vivobook Go 15 E1504FA-NJ836W AMD Ryzen 5 7520U 2,8 GHz 8GB 512GB SSD Windows 11 Home 15,6"" Full Hd Preto",Por TNT Info ,4.8,(370),3.598,3.078
+HP,Notebook Hp 256r G9 Intel Core I5-1335u 15.6 Hd Intel® Iris Xe Graphics 256gb Ssd 16gb Ram Windows 11 Home Pls Sl- Ay6z5la#ak4,Por HP ,4.8,(91),4.799,3.239
+DELL,Notebook Dell Inspiron I15-i120k-a46p I7 16gb 512gb Ssd W11 Cor Preto,Por Mercado Livre ,4.8,(271),4.699,391
+ASUS,"Notebook ASUS Vivobook 15 X1504ZA Intel Core i5 1235U 8GB Ram 512GB SSD Windows 11 Tela 15,6"" FHD Blue - NJ987W",Por Fast Shop ,4.9,(426),3.092,309
+,"Notebook Vaio Fe15, Amd® Ryzen 5, 8gb 256gb Ssd, Tela 15,6'' Full Hd Antirreflexo, Linux - Cinza Grafite, Vjfe59f11x-b1711h",Por 123 Comprou ,4.8,(1520),4.831,4.348
+,Notebook Vaio Fe 16 Amd Ryzen 5-5625u Linux 8gb 256gb Ssd Tela 16 Ips Wuxga Antireflexo - Cinza Grafite - Vjfe69f11x-b0411h,Por 123 Comprou ,,,4.998,2.879
+SAMSUNG,"Samsung Chromebook 4 Intel Celeron N4020 4GB 64GB Tela 11.6"" Prata XE310XBA-KT4BR",Por 123 Comprou ,4.5,(251),2.331,1.509
+ASUS,"Notebook ASUS Vivobook Go E1504FA AMD Ryzen 5 7520U 8GB Ram 256GB SSD Windows 11 Tela 15,6"" FHD Black - NJ825W",Por Asus ,4.9,(90),2.975,247
+ASUS,"Notebook Asus Vivobook Go 15 E510ka Intel Celeron Dual Core N4500 4gb Ram 128gb Emmc Windows 11 Home 15,60 Hd Rosa - Br833ws",,4.6,(415),1.989,1.781
+ASUS,"Notebook Asus Vivobook 15 X1504za Intel Core I5 1235u 8gb Ram 512gb Ssd Windows 11 Tela 15,6 Fhd Silver - Nj986w",Por Fast Shop ,4.9,(191),3.092,257
+ACER,Notebook Acer Aspire 5 A15-51M-54E6 / Intel Core™ i5-13420H de 13ª Geração / 8GB / 512SSD / Windows 11 Home / 15.6” Full HD,Por Acer Brasil ,4.9,(222),3.399,339
+HP,Notebook Hp 256r G9 Intel Core I5-1335u 15.6 Hd Intel® Iris Xe Graphics 256gb Ssd 16gb Ram Windows 11 Home Pls Sl- Ay6z5la#ak4,Por HP ,4.8,(91),4.799,3.239
+DELL,Notebook Dell Inspiron I15-i120k-a46p I7 16gb 512gb Ssd W11 Cor Preto,Por Mercado Livre ,4.8,(271),4.699,391
+ASUS,"Notebook ASUS Vivobook 15 X1504ZA Intel Core i5 1235U 8GB Ram 512GB SSD Windows 11 Tela 15,6"" FHD Blue - NJ987W",Por Fast Shop ,4.9,(426),3.092,309
+,"Notebook Vaio Fe15, Amd® Ryzen 5, 8gb 256gb Ssd, Tela 15,6'' Full Hd Antirreflexo, Linux - Cinza Grafite, Vjfe59f11x-b1711h",Por 123 Comprou ,4.8,(1520),4.831,4.348
+,Notebook Vaio Fe 16 Amd Ryzen 5-5625u Linux 8gb 256gb Ssd Tela 16 Ips Wuxga Antireflexo - Cinza Grafite - Vjfe69f11x-b0411h,Por 123 Comprou ,,,4.998,2.879
+SAMSUNG,"Samsung Chromebook 4 Intel Celeron N4020 4GB 64GB Tela 11.6"" Prata XE310XBA-KT4BR",Por 123 Comprou ,4.5,(251),2.331,1.509
+ASUS,"Notebook ASUS Vivobook Go E1504FA AMD Ryzen 5 7520U 8GB Ram 256GB SSD Windows 11 Tela 15,6"" FHD Black - NJ825W",Por Asus ,4.9,(90),2.975,247
+ASUS,"Notebook Asus Vivobook Go 15 E510ka Intel Celeron Dual Core N4500 4gb Ram 128gb Emmc Windows 11 Home 15,60 Hd Rosa - Br833ws",,4.6,(415),1.989,1.781
+ASUS,"Notebook Asus Vivobook 15 X1504za Intel Core I5 1235u 8gb Ram 512gb Ssd Windows 11 Tela 15,6 Fhd Silver - Nj986w",Por Fast Shop ,4.9,(191),3.092,257
+LENOVO,Notebook Lenovo Thinkpad T480 14  I5 8ª 8gb Ssd 256gb,Por Micro Livre ,4.2,(11),1.749,145
+DELL,Notebook Dell Latitude 3400 Core I3-8th  8gb Ssd 256gb W11,,,,1.962,163
+ACER,Notebook Acer Aspire 5 Ryzen 7 15.6 Radeon 512gb 8gb Linux,Por Mobcom ,4.9,(577),3.447,2.799
+LENOVO,Notebook Lenovo LOQ-e 15iax9e Intel Core i5-12450hx 16gb 512gb Ssd Rtx 3050 Windows 11 15.6 - 83me0007br Luna Grey,Por Mobcom ,4.8,(90),9.510,4.599
+SAMSUNG,"Notebook Samsung Galaxy Book4 Intel® Core™ i5-1335U (1.3 Ghz, até 4.6GHz, 12 MB L3 Cache), Windows 11 Home, 8GB, 512GB SSD, Iris Xe, 15.6'' Full HD LED, 1.55kg",Por Samsung ,4.8,(1238),3.899,3.514
+ACER,Notebook Acer Aspire 15 A15-51M-56KR / Intel® Core™ i5-13420H 13ª geração / 16 GB / 512SSD / 15.6” Full HD,Por Vikings ,4.8,(236),4.855,3.059
+ACER,Notebook Acer Aspire 15 555Q Intel Ci5 13gen 8gb 256ssd W11,Por Mercado Livre ,4.8,(276),4.372,2.699
+SAMSUNG,"Notebook Samsung Galaxy Book4 Intel® U300 (1.20 Ghz, até 4.4GHz, 8 MB L3 Cache), Windows 11 Home, 8GB, 256GB SSD, UHD Graphics, 15.6'' Full HD LED, 1.55kg",Por Vikings ,4.8,(6214),3.999,2.799
+ACER,"Notebook Gamer Acer Nitro V ANV15-51-57WS Intel® Core™ i5-13420H 13ªGeração 512SSD 8GB Nvidia® GeForce® RTX 3050 GDDR6 Linux Gutta 15,6'",Por Acer Brasil ,4.8,(2885),5.299,4.799
+ACER,Notebook Gamer Acer Nitro V Intel Core i7 13ª Geração 16GB 512GB RTX4050 Linux Gutta 15.6' FHD ANV15-51-7037,Por Acer Brasil ,4.8,(1470),7.299,6.399
+ACER,"Notebook Gamer Acer Nitro V Intel Core I5 - 13420H, 8GB Ram, 512GB SSD, NVIDIA RTX4050, Windows 11 Home, Tela 15,6"" Full HD - ANV15-51-54DL",Por Acer Brasil ,4.8,(1097),7.299,5.699
+ACER,Notebook Acer Predator Gamer Phn16-71-72w6 I7-13650hx 16gb 512gb Ssd Rtx 4060 Windows 11 Home Tela 16 Wuxga,Por Acer Brasil ,4.9,(611),10.999,8.299
+ACER,"Notebook Acer Aspire 5 Intel Core I5 - 12450H 8GB RAM 256GB SSD Windows 11 Home Tela 15,6"" Full HD A515-57-55B8",Por Mercado Livre ,4.8,(6760),4.117,2.981
+LENOVO,"Notebook Lenovo Ideapad 1 Intel Core i3 1215U 8GB RAM 256GB SSD Windows 11 Home Tela 15,6"" 82VY000SBR",Por NegociuN ,4.8,(4950),3.057,2.509
+,"Notebook Positivo Vision C15 Lumina Bar Celeron, 8GB 128GB eMMC, Tela 15.6"" HD Antirreflexo, Windows 11, Tecla Link, Cinza",Por Positivo ,4.6,(822),2.855,1.799
+LENOVO,"Notebook Lenovo Ideapad 1i Intel Core I3 - 1215U, 4GB RAM, 256GB SSD, Windows 11 Home, Tela 15.6'' - 82VY000TBR Cor cinza",Por NegociuN ,4.8,(1282),2.866,2.321
+LENOVO,Notebook Lenovo Ideapad 1i Celeron Office 365 4gb 128gb W11,Por NegociuN ,4.7,(125),2.407,1.879
+ACER,Notebook Acer Aspire 5 A515-45-r0xr Ryzen7 8gb 256gb Ssd 15.6 Full Hd Linux Gutta,Por Vikings ,4.8,(491),4.141,2.639
+LENOVO,Notebook Lenovo Thinkpad T480 14  I5 8ª 8gb Ssd 256gb,Por Micro Livre ,4.2,(11),1.749,145
+DELL,Notebook Dell Inspiron I15-i120k-a35p I5 16gb 1tb 15.6 W11,Por Mercado Livre ,4.8,(1538),4.399,3.984
+ACER,"Notebook Acer A515-57-5429 Intel Core i5-12450H 16GB RAM 512GB SSD Tela de 15,6'' Linux Gutta",Por Acer Brasil ,4.8,(1079),4.285,2.969
+,"Notebook Positivo Duo 2 em 1 Intel Celeron C4128B-3 4GB 128GB 11,6"" IPS HD Windows 11",Por Positivo ,4.5,(4306),1.649,1.401
+ASUS,"Notebook ASUS Vivobook Go 15 E1504 AMD RYZEN 5 7520U 8GB Ram 256GB SSD Linux KeepOS 15,6” FHD Black E1504FA-NJ731",Por Mercado Livre ,4.7,(598),2.649,2.496
+ASUS,"Notebook ASUS Vivobook 15 Core I5 1235U 3.3 GHz 8GB Ram 256GB SSD W11 Home Tela 15,6” NanoEdge Full HD Cool Silver X1504ZA-NJ985W",Por Mercado Livre ,4.8,(231),3.199,2.853
+ACER,Notebook Acer Aspire 5 A515-45-R36L Ryzen 7 15.6 Radeon 512gb 12gb Linux,Por Mercado Livre ,4.8,(733),4.356,2.993
+,Notebook Positivo Vision C15 Lumina Bar Celeron 4gb 128gb Emmc Tela 15 Hd Antirreflexo Windows 11 Tecla Link Cinza,Por Positivo ,4.6,(2944),1.999,1.452
+,Notebook Positivo Vision C14 Lumina BAR Celeron 4GB 128GB eMMC Tela 14 Polegadas HD Antirreflexo Windows 11 Tecla Link – Cinza,Por Carrefour ,4.6,(3867),1.518,126
+DELL,Notebook Dell Latitude 3400 Core I3-8th  8gb Ssd 256gb W11,,,,1.962,163
+ACER,Notebook Acer Aspire 5 Ryzen 7 15.6 Radeon 512gb 8gb Linux,Por Mobcom ,4.9,(577),3.447,2.799
+LENOVO,Notebook Lenovo LOQ-e 15iax9e Intel Core i5-12450hx 16gb 512gb Ssd Rtx 3050 Windows 11 15.6 - 83me0007br Luna Grey,Por Mobcom ,4.8,(90),9.510,4.599
+SAMSUNG,"Notebook Samsung Galaxy Book4 Intel® Core™ i5-1335U (1.3 Ghz, até 4.6GHz, 12 MB L3 Cache), Windows 11 Home, 8GB, 512GB SSD, Iris Xe, 15.6'' Full HD LED, 1.55kg",Por Samsung ,4.8,(1238),3.899,3.514
+ACER,Notebook Acer Aspire 15 A15-51M-56KR / Intel® Core™ i5-13420H 13ª geração / 16 GB / 512SSD / 15.6” Full HD,Por Vikings ,4.8,(236),4.855,3.059
+ACER,Notebook Acer Aspire 15 555Q Intel Ci5 13gen 8gb 256ssd W11,Por Mercado Livre ,4.8,(276),4.372,2.699
+SAMSUNG,"Notebook Samsung Galaxy Book4 Intel® U300 (1.20 Ghz, até 4.4GHz, 8 MB L3 Cache), Windows 11 Home, 8GB, 256GB SSD, UHD Graphics, 15.6'' Full HD LED, 1.55kg",Por Vikings ,4.8,(6214),3.999,2.799
+ACER,Notebook Acer Gamer Nitro V15 Intel Core I7 13ª Ger. 16gb 512ssd Rtx3050 Com 6gb Gddr6 Nvidia Geforce Linux Gutta ANV15-51-73E9,Por Vikings ,4.8,(139),8.570,6.099
+ACER,Notebook Acer Nitro V15 ANV15-51-58AZ Core I5-13420h 8gb 512gb Rtx 3050 Cor Preto,Por Mercado Livre ,4.8,(838),7.398,4.935
+DELL,Notebook Dell Inspiron I15-i120k-a15p I3 8gb 512gb 15.6 W11,Por Mercado Livre ,4.8,(664),3.299,3.055
+,"Notebook VSAP VNJH1402 Intel Celeron N4020 de 14,1"", 8 GB de RAM, 256 GB, SSD, Windows 11 Pro Silver",,,,1.419,118
+,"Notebook VAIO FE15 Intel Core i5 12th 16GB 512GB SSD Tela 15,6'' Full HD Antirreflexo Windows 11 Home Cinza Grafite B2621H",Por INPOWER ,4.8,(397),5.639,3.599
+SAMSUNG,Notebook Samsung Galaxy Book4 Windows 11 Home Intel Core I3 8gb 256gb Ssd 15.6'' Full Hd Led 1.55 Kg Grafite,Por 2Eletro ,4.9,(3887),3.590,3.149
+LENOVO,"Notebook Lenovo Ideapad 1i Intel Core i5 - 1235U, 8GB RAM, 512GB SSD, Windows 11 Home, Tela 15,6'' HD - 82VY000QBR",Por Eletro2U ,4.8,(3972),3.999,2.949
+ASUS,"Notebook Asus Vivobook 15 X1504za Intel Core I5 1235u 8gb Ram 256gb Ssd Linux Keepos Tela 15,6 Fhd Blue - Nj982",Por Mercado Livre ,4.7,(182),2.829,2.687
+HP,Notebook Hp 256r G9 Intel Core I3-1315u 15.6 Hd Intel Uhd Graphics 256gb Ssd 8gb Ram Windows 11 Home 64 Sl - AN1A2LA#AK4,Por HP ,4.8,(102),3.799,2.569
+ACER,"Notebook Acer Aspire 3 Intel Core I3 - N305, 8G RAM, 256GB SSD, Windows 11 Home, Tela 15,6"" Full HD - A315-510P-34XC 110V/220V",Por Facini Informatica ,4.8,(8161),2.630,252
+ACER,"Notebook Gamer Acer Nitro V ANV15-51-57WS Intel® Core™ i5-13420H 13ªGeração 512SSD 8GB Nvidia® GeForce® RTX 3050 GDDR6 Linux Gutta 15,6'",Por Acer Brasil ,4.8,(2885),5.299,4.799
+ACER,Notebook Gamer Acer Nitro V Intel Core i7 13ª Geração 16GB 512GB RTX4050 Linux Gutta 15.6' FHD ANV15-51-7037,Por Acer Brasil ,4.8,(1470),7.299,6.399
+ACER,"Notebook Gamer Acer Nitro V Intel Core I5 - 13420H, 8GB Ram, 512GB SSD, NVIDIA RTX4050, Windows 11 Home, Tela 15,6"" Full HD - ANV15-51-54DL",Por Acer Brasil ,4.8,(1097),7.299,5.699
+ACER,Notebook Acer Predator Gamer Phn16-71-72w6 I7-13650hx 16gb 512gb Ssd Rtx 4060 Windows 11 Home Tela 16 Wuxga,Por Acer Brasil ,4.9,(611),10.999,8.299
+ACER,"Notebook Acer Aspire 5 Intel Core I5 - 12450H 8GB RAM 256GB SSD Windows 11 Home Tela 15,6"" Full HD A515-57-55B8",Por Mercado Livre ,4.8,(6760),4.117,2.981
+LENOVO,"Notebook Lenovo Ideapad 1 Intel Core i3 1215U 8GB RAM 256GB SSD Windows 11 Home Tela 15,6"" 82VY000SBR",Por NegociuN ,4.8,(4950),3.057,2.509
+,"Notebook Positivo Vision C15 Lumina Bar Celeron, 8GB 128GB eMMC, Tela 15.6"" HD Antirreflexo, Windows 11, Tecla Link, Cinza",Por Positivo ,4.6,(822),2.855,1.799
+LENOVO,"Notebook Lenovo Ideapad 1i Intel Core I3 - 1215U, 4GB RAM, 256GB SSD, Windows 11 Home, Tela 15.6'' - 82VY000TBR Cor cinza",Por NegociuN ,4.8,(1282),2.866,2.321
+LENOVO,Notebook Lenovo Ideapad 1i Celeron Office 365 4gb 128gb W11,Por NegociuN ,4.7,(125),2.407,1.879
+ACER,Notebook Acer Aspire 5 A515-45-r0xr Ryzen7 8gb 256gb Ssd 15.6 Full Hd Linux Gutta,Por Vikings ,4.8,(491),4.141,2.639
+DELL,Notebook Dell Inspiron I15-i120k-a10p 15.6 I3 8gb 256gb W11,Por Mercado Livre ,4.8,(1048),3.740,3.553
+ACER,Notebook Acer Gamer Nitro V15 Intel Core i7 13ª Ger. 32GB 512SSD RTX3050 com 6GB GDDR6 Nvidia GeForce Linux Gutta ANV15-51-73BP,Por Vikings ,4.9,(115),8.998,6.299
+ACER,Acer Predator Helios Neo PHN16-72-99MY Intel Ci9 14ªGeração 32GB 1TB SSD RTX4070 Windows11 Cor Preto,Por Acer Brasil ,5.0,(10),14.999,11.999
+ACER,Notebook Acer Aspire 5 A15-51M-54E6 / Intel Core™ i5-13420H de 13ª Geração / 8GB / 512SSD / Windows 11 Home / 15.6” Full HD,Por Acer Brasil ,4.9,(222),3.399,339
+ASUS,"Notebook Asus X515 Intel Celeron Dual Core N4500 4gb Ram 128gb Ssd Windows 11 Home Tela 15,6 Led Hd Slate Grey - Br309ws",Por 2Eletro ,4.7,(232),2.300,1.833
+HP,Notebook Hp 256r G9 Intel Core I5-1335u 15.6 Hd Intel® Iris Xe Graphics 256gb Ssd 16gb Ram Windows 11 Home Pls Sl- Ay6z5la#ak4,Por HP ,4.8,(91),4.799,3.239
+DELL,Notebook Dell Inspiron I15-i120k-a46p I7 16gb 512gb Ssd W11 Cor Preto,Por Mercado Livre ,4.8,(271),4.699,391
+ASUS,"Notebook ASUS Vivobook Go 15 E1504FA-NJ836W AMD Ryzen 5 7520U 2,8 GHz 8GB 512GB SSD Windows 11 Home 15,6"" Full Hd Preto",Por TNT Info ,4.8,(370),3.598,3.078
+ASUS,"Notebook ASUS Vivobook 15 X1504ZA Intel Core i5 1235U 8GB Ram 512GB SSD Windows 11 Tela 15,6"" FHD Blue - NJ987W",Por Fast Shop ,4.9,(426),3.092,309
+,"Notebook Vaio Fe15, Amd® Ryzen 5, 8gb 256gb Ssd, Tela 15,6'' Full Hd Antirreflexo, Linux - Cinza Grafite, Vjfe59f11x-b1711h",Por 123 Comprou ,4.8,(1520),4.831,4.348
+DELL,Notebook Dell Inspiron I15-i120k-a35p I5 16gb 1tb 15.6 W11,Por Mercado Livre ,4.8,(1538),4.399,3.984
+ACER,"Notebook Acer A515-57-5429 Intel Core i5-12450H 16GB RAM 512GB SSD Tela de 15,6'' Linux Gutta",Por Acer Brasil ,4.8,(1079),4.285,2.969
+,"Notebook Positivo Duo 2 em 1 Intel Celeron C4128B-3 4GB 128GB 11,6"" IPS HD Windows 11",Por Positivo ,4.5,(4306),1.649,1.401
+ASUS,"Notebook ASUS Vivobook Go 15 E1504 AMD RYZEN 5 7520U 8GB Ram 256GB SSD Linux KeepOS 15,6” FHD Black E1504FA-NJ731",Por Mercado Livre ,4.7,(598),2.649,2.496
+ASUS,"Notebook ASUS Vivobook 15 Core I5 1235U 3.3 GHz 8GB Ram 256GB SSD W11 Home Tela 15,6” NanoEdge Full HD Cool Silver X1504ZA-NJ985W",Por Mercado Livre ,4.8,(231),3.199,2.853
+ACER,Notebook Acer Aspire 5 A515-45-R36L Ryzen 7 15.6 Radeon 512gb 12gb Linux,Por Mercado Livre ,4.8,(733),4.356,2.993
+,Notebook Positivo Vision C15 Lumina Bar Celeron 4gb 128gb Emmc Tela 15 Hd Antirreflexo Windows 11 Tecla Link Cinza,Por Positivo ,4.6,(2944),1.999,1.452
+,Notebook Positivo Vision C14 Lumina BAR Celeron 4GB 128GB eMMC Tela 14 Polegadas HD Antirreflexo Windows 11 Tecla Link – Cinza,Por Carrefour ,4.6,(3867),1.518,126
+ACER,Notebook Acer Gamer Nitro V15 Intel Core I7 13ª Ger. 16gb 512ssd Rtx3050 Com 6gb Gddr6 Nvidia Geforce Linux Gutta ANV15-51-73E9,Por Vikings ,4.8,(139),8.570,6.099
+,Notebook Vaio Fe 16 Amd Ryzen 5-5625u Linux 8gb 256gb Ssd Tela 16 Ips Wuxga Antireflexo - Cinza Grafite - Vjfe69f11x-b0411h,Por 123 Comprou ,,,4.998,2.879
+SAMSUNG,"Samsung Chromebook 4 Intel Celeron N4020 4GB 64GB Tela 11.6"" Prata XE310XBA-KT4BR",Por 123 Comprou ,4.5,(251),2.331,1.509
+ASUS,"Notebook ASUS Vivobook Go E1504FA AMD Ryzen 5 7520U 8GB Ram 256GB SSD Windows 11 Tela 15,6"" FHD Black - NJ825W",Por Asus ,4.9,(90),2.975,247
+ASUS,"Notebook Asus Vivobook Go 15 E510ka Intel Celeron Dual Core N4500 4gb Ram 128gb Emmc Windows 11 Home 15,60 Hd Rosa - Br833ws",,4.6,(415),1.989,1.781
+ACER,Notebook Acer Nitro V15 ANV15-51-58AZ Core I5-13420h 8gb 512gb Rtx 3050 Cor Preto,Por Mercado Livre ,4.8,(838),7.398,4.935
+DELL,Notebook Dell Inspiron I15-i120k-a15p I3 8gb 512gb 15.6 W11,Por Mercado Livre ,4.8,(664),3.299,3.055
+,"Notebook VSAP VNJH1402 Intel Celeron N4020 de 14,1"", 8 GB de RAM, 256 GB, SSD, Windows 11 Pro Silver",,,,1.419,118
+,"Notebook VAIO FE15 Intel Core i5 12th 16GB 512GB SSD Tela 15,6'' Full HD Antirreflexo Windows 11 Home Cinza Grafite B2621H",Por INPOWER ,4.8,(397),5.639,3.599
+SAMSUNG,Notebook Samsung Galaxy Book4 Windows 11 Home Intel Core I3 8gb 256gb Ssd 15.6'' Full Hd Led 1.55 Kg Grafite,Por 2Eletro ,4.9,(3887),3.590,3.149
+LENOVO,"Notebook Lenovo Ideapad 1i Intel Core i5 - 1235U, 8GB RAM, 512GB SSD, Windows 11 Home, Tela 15,6'' HD - 82VY000QBR",Por Eletro2U ,4.8,(3972),3.999,2.949
+ASUS,"Notebook Asus Vivobook 15 X1504za Intel Core I5 1235u 8gb Ram 256gb Ssd Linux Keepos Tela 15,6 Fhd Blue - Nj982",Por Mercado Livre ,4.7,(182),2.829,2.687
+HP,Notebook Hp 256r G9 Intel Core I3-1315u 15.6 Hd Intel Uhd Graphics 256gb Ssd 8gb Ram Windows 11 Home 64 Sl - AN1A2LA#AK4,Por HP ,4.8,(102),3.799,2.569
+ACER,"Notebook Acer Aspire 3 Intel Core I3 - N305, 8G RAM, 256GB SSD, Windows 11 Home, Tela 15,6"" Full HD - A315-510P-34XC 110V/220V",Por Facini Informatica ,4.8,(8161),2.630,252
+DELL,Notebook Dell Inspiron I15-i120k-a10p 15.6 I3 8gb 256gb W11,Por Mercado Livre ,4.8,(1048),3.740,3.553
+ACER,Notebook Acer Gamer Nitro V15 Intel Core i7 13ª Ger. 32GB 512SSD RTX3050 com 6GB GDDR6 Nvidia GeForce Linux Gutta ANV15-51-73BP,Por Vikings ,4.9,(115),8.998,6.299
+ACER,Acer Predator Helios Neo PHN16-72-99MY Intel Ci9 14ªGeração 32GB 1TB SSD RTX4070 Windows11 Cor Preto,Por Acer Brasil ,5.0,(10),14.999,11.999
+ACER,Notebook Acer Aspire 5 A15-51M-54E6 / Intel Core™ i5-13420H de 13ª Geração / 8GB / 512SSD / Windows 11 Home / 15.6” Full HD,Por Acer Brasil ,4.9,(222),3.399,339
+ASUS,"Notebook Asus X515 Intel Celeron Dual Core N4500 4gb Ram 128gb Ssd Windows 11 Home Tela 15,6 Led Hd Slate Grey - Br309ws",Por 2Eletro ,4.7,(232),2.300,1.833
+HP,Notebook Hp 256r G9 Intel Core I5-1335u 15.6 Hd Intel® Iris Xe Graphics 256gb Ssd 16gb Ram Windows 11 Home Pls Sl- Ay6z5la#ak4,Por HP ,4.8,(91),4.799,3.239
+DELL,Notebook Dell Inspiron I15-i120k-a46p I7 16gb 512gb Ssd W11 Cor Preto,Por Mercado Livre ,4.8,(271),4.699,391
+ASUS,"Notebook ASUS Vivobook Go 15 E1504FA-NJ836W AMD Ryzen 5 7520U 2,8 GHz 8GB 512GB SSD Windows 11 Home 15,6"" Full Hd Preto",Por TNT Info ,4.8,(370),3.598,3.078
+ASUS,"Notebook ASUS Vivobook 15 X1504ZA Intel Core i5 1235U 8GB Ram 512GB SSD Windows 11 Tela 15,6"" FHD Blue - NJ987W",Por Fast Shop ,4.9,(426),3.092,309
+,"Notebook Vaio Fe15, Amd® Ryzen 5, 8gb 256gb Ssd, Tela 15,6'' Full Hd Antirreflexo, Linux - Cinza Grafite, Vjfe59f11x-b1711h",Por 123 Comprou ,4.8,(1520),4.831,4.348
+,Notebook Vaio Fe 16 Amd Ryzen 5-5625u Linux 8gb 256gb Ssd Tela 16 Ips Wuxga Antireflexo - Cinza Grafite - Vjfe69f11x-b0411h,Por 123 Comprou ,,,4.998,2.879
+SAMSUNG,"Samsung Chromebook 4 Intel Celeron N4020 4GB 64GB Tela 11.6"" Prata XE310XBA-KT4BR",Por 123 Comprou ,4.5,(251),2.331,1.509
+ASUS,"Notebook ASUS Vivobook Go E1504FA AMD Ryzen 5 7520U 8GB Ram 256GB SSD Windows 11 Tela 15,6"" FHD Black - NJ825W",Por Asus ,4.9,(90),2.975,247
+ASUS,"Notebook Asus Vivobook Go 15 E510ka Intel Celeron Dual Core N4500 4gb Ram 128gb Emmc Windows 11 Home 15,60 Hd Rosa - Br833ws",,4.6,(415),1.989,1.781
+LENOVO,Notebook Lenovo Thinkpad T480 14  I5 8ª 8gb Ssd 256gb,Por Micro Livre ,4.2,(11),1.749,145
+DELL,Notebook Dell Latitude 3400 Core I3-8th  8gb Ssd 256gb W11,,,,1.962,163
+ASUS,Notebook Asus Vivobook 16 Intel Core I7 1355U 16GB RAM 1TB SSD Windows 11 Home Tela 16 Fhd Cool Silver – X1605VA-MB764W,Por Mercado Livre ,4.8,(109),5.158,429
+,Capa Folha Solta Mmulck Versatil,,,,71,
+,Caderno De Jogos Para Notebook De Cobre Puro,,,,47,
+,Notebook Dell Latitude E5440 Intel Core I5 8gb Ssd 256gb Cor Preto - Bom (Recondicionado),,,,1.699,
+ASUS,Notebook Asus Vivobook Go Core I3 N305 4gb 256ssd W11 Fhd,Por Mercado Livre ,4.8,(493),2.599,2.331
+LENOVO,Notebook Lenovo Ideapad 3i Celeron 4gb 128gb Ssd W11 15.6 Cor Prateado,Por 123 Comprou ,4.6,(2125),3.665,3.298
+,"Notebook Positivo Vision R15 Lumina Bar, AMD Ryzen 5 8GB 256GB, Tela 15 polegadas Full HD Antirreflexo, Linux - Preto",Por Eshop ,4.9,(16),3.900,2.455
+,Notebook Positivo Vision C14 Lumina Bar Celeron 8gb 256gb Emmc Tela 14 Polegadas Hd Antirreflexo Linux Tecla Link - Cinza,Por Positivo ,4.5,(311),2.099,1.469
+,"Notebook Multi Ultra Celeron N4020c 4gb 128gb W11 15,6'' Cinza - Ub261",Por Carrefour ,4.6,(411),1.799,1.530
+DELL,"Notebook Latitude 3420 14"" preto 8GB de Ram - 256GB SSD - Intel Core i5 - Excelente (Recondicionado)",Por Micro Livre ,,,2.632,219
+DELL,Notebook Dell Inspiron I15-i120k-a25p I5 8gb 512gb 15.6 W11,,4.8,(1162),3.501,291
+,"Notebook Motion C4500Ei 14.1"" cinza - 500GB HDD - Intel Celeron",Por Positivo ,5.0,(1),1.999,1.379
+,Notebook Vaio Amd Ryzen 5-5625u Windows 11 12gb 512gb Ssd Vjfe69f11x-b1221h,Por NegociuN ,,,4.718,3.749
+SAMSUNG,"Notebook Samsung Book4 I5-1335u 8gb 256gb Ssd 15,6 Full Hd Windows 11 Pro Np754xgj-kg5br 110v/220v",Por 2Eletro ,4.9,(22),3.800,3.599
+,"Notebook Positivo Vision I15 Intel Core I3-N300 8GB 256GB SSD Windows 11 Home 15"" FHD Preto - Lumina Bar",Por NegociuN ,4.7,(182),3.292,2.553
+,Notebook Multi Ultra Celeron N4020c 4gb 128gb W11 14'' Cinza,Por 123 Comprou ,4.6,(248),1.998,1.349
+DELL,Notebook Dell 15.6 Fhd I5 8gb 512gb Ssd Rtx 3050,Por Mercado Livre ,4.8,(37),7.013,5.773
+LENOVO,"Notebook Lenovo Ideapad 1i Intel Core i3 1215U 4GB 256GB Linux 15,6"" HD 82VYS00600",,4.8,(4950),3.500,3.010
+,"Notebook Multi I3-8145u 4gb 240gb Ssd Linux 15,6'' Cinza - Ub491",Por 123 Comprou ,4.6,(54),3.165,1.993
+DELL,Notebook Dell Inspiron I15-i120k-a25p I5 8gb 512gb 15.6 W11 Preto,Por Mercado Livre ,5.0,(2),3.585,298
+LENOVO,Notebook Lenovo Thinkpad T470 I5 7th Ger 8g Ddr4 240gb Ssd,Por Tech Forte ,4.0,(1),1.899,1.576
+ACER,Notebook Acer Aspire 5 15.6 Fhd I5-12450h 256gb Ssd 8gb Cor Cinza,Por Eshop ,4.5,(101),3.990,2.882
+ASUS,Notebook Gamer Rog Strix G16 Core I9 16gb 512ssd W11 Rtx 4060 Cor Cinza Asus,Por Mercado Livre ,4.8,(40),12.500,11.456
+ASUS,Notebook Asus Tuf Gaming Rtx3050 Core I5 16gb 512ssd W11,Por Fast Shop ,4.9,(189),6.300,525
+LENOVO,Notebook Lenovo Thinkpad T480 14  I5 8ª 8gb Ssd 256gb,Por Micro Livre ,4.2,(11),1.749,145
+DELL,"Notebook 2 em 1 Dell Inspiron 2IN1-I1300-M30 14"" FHD+ Touch Intel® Core™ i5 16GB 512GB SSD Windows 11",Por Mercado Livre ,5.0,(4),5.832,486
+LENOVO,"Notebook Lenovo Ideapad 1 Celeron 4gb 128gb Ssd 15,6 W11 Cor Cinza",Por Eletro2U ,4.6,(2939),2.499,1.899
+LENOVO,Notebook Lenovo V14 Amd R5 7520u 8gb 256gb Ssd W11 Pro Preto,Por 2Eletro ,,,4.110,3.399
+,"Notebook VAIO FE15 Intel® Core i3 11th 8GB 256GB SSD Tela 15,6'' Full HD Antirreflexo, Windows 11 Home - Cinza Grafite",Por 123 Comprou ,4.6,(373),4.498,374
+LENOVO,Notebook Lenovo Ideapad 1 Ryzen 5 - 7520u 8gb 512gb Ssd Linux 15.6 82X5S00500,,4.8,(614),3.397,283
+HP,"Notebook Hp 250 G9 Core I5-1235u 8gb Ddr4 256gb Ssd 15.6"" Windows 11 Pro Cor Cinza",,4.9,(22),3.999,384
+LENOVO,"Notebook Gamer Lenovo Loq 15irh8 Intel Core i5 12450H 16gb RAM 512GB SSD RTX 2050 Windows 11 Home Tela 15,6"" Full HD 83EU0001BR",Por Miranda ,4.9,(2103),5.158,495
+,Notebook Vaio Fe 16 Amd Ryzen 5 - 5625u Linux 12gb 512gb Ssd Tela 16 Ips Wuxga Antirreflexo - Cinza Grafite - Vjfe69f11x-b1211h,Por Eshop ,4.5,(2),3.849,3.210
+,"Notebook Positivo Vision I15 Lumina Bar, Core I3, 11th, 8gb 512gb Ssd, Tela 15 Polegadas, Full Hd Antirreflexo, Windows 11 - Cinza",,4.7,(20),3.937,3.465
+,"Notebook Positivo Vision i15 Lumina Bar i3-N300, 8GB 512GB SSD, Tela 15 polegadas Full HD Antirreflexo Linux - Cinza",Por Eletro2U ,4.6,(300),2.699,2.183
+LENOVO,"Notebook Lenovo IdeaPad 1i Intel Core i3-1215U 4GB 256GB SSD Windows 11 Home 15.6"" 82VY000UBR Com 2 Anos Premium Care",Por Carrefour ,4.7,(39),3.199,2.329
+LENOVO,"Notebook Ideapad 1i Intel Core i7 1255U, 12GB RAM, 512GB SSD, Linux, Tela 15,6"" HD 82VYS01000",,4.8,(4950),3.999,333
+,"Notebook Ultra, Com Windows 11 Pro, Tela 14 Pol Ul154i5wpro Cor Preto",Por Loja Multi ,4.5,(2),2.399,199
+ACER,"Notebook Acer A515-45-r3pu R7 16gb 512ssd 15,6 Led W11",,4.8,(385),3.990,332
+LENOVO,Notebook Lenovo Ideapad Hd I5-1235u Ssd 512gb 8gb Win 11h,Por INPOWER ,5.0,(1),4.399,3.104
+ACER,"Notebook Acer Aspire 3 Intel Core i3– N305 FHD 15.6"" LED TN UHD para processadores Inte 256GB SDD 8GB RAM Debian 64 bits Prata - A315-510P-320B",Por Loi Brasil ,4.8,(225),4.199,2.399
+,Notebook Vaio Fe 16 Amd Ryzen 7 - 5700u Linux 32gb 512gb Ssd Tela 16 Ips Wuxga Antirreflexo - Cinza Grafite - Vjfe69f11xb0911h,Por Vaio ,5.0,(20),4.759,3.876
+SAMSUNG,Notebook Galaxy Book2 intel core i7-1255U 8GB RA SSD 512GB 15.6 Full HD Windows 11 grafite NP550XED-KS2BR,Por Login ,4.8,(567),4.999,4.299
+DELL,Notebook Dell Latitude 3420 Intel Core I5 11ger Memória Ram 16gb Armazenamento Ssd 256gb Windows 11 Tela 14,,4.5,(4),3.199,266
+,Notebook Vaio Fe 16 Amd® Ryzen 7-5825u Windows 11 Home 16gb 512gb Ssd Tela 16 Ips Wuxga Antireflexo - Cinza Grafite - Vjfe69f11x-b0111h,Por Vaio ,4.8,(6),5.999,4.629
+ASUS,"Notebook Asus Vivobook Go 15 E1504ga Intel Core I3 N305 4gb Ram 128gb Ssd Windows 11 Tela 15,6 Fhd Silver - Nj440w",,4.8,(290),2.559,2.299
+SAMSUNG,"Samsung Galaxy Chromebook Go Intel Celeron N4500, 4gb, 32gb Cor Cinza",Por NegociuN ,4.6,(69),1.662,1.446
+ASUS,"Notebook Gamer ASUS TUF Gaming A15 AMD Ryzen 7 7435HS 3,1 GHz GeForce RTX™2050 8GB RAM 512GB SSD Linux KeepOs Tela 15,6 144Hz IPS FHD Graphite Black - FA506NFR-HN069",Por Mercado Livre ,4.8,(25),4.995,416

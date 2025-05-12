@@ -96,7 +96,7 @@ DOWNLOADER_MIDDLEWARES = {
 }
 
 FAKEUSERAGENT_PROVIDERS = [
-    'scrapy_fake_useragent.providers.FakeUserAgentProvider',  # padrão
+    'scrapy_fake_useragent.providers.FakeUserAgentProvider',
     'scrapy_fake_useragent.providers.FakerProvider',
     'scrapy_fake_useragent.providers.FixedUserAgentProvider',
 ]
