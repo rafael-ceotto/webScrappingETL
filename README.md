@@ -34,7 +34,7 @@ in the terminal.
 
 7 - To run the dashboard, on the root file, please open the terminal and type streamlit rung src/dash/main.py and it will open a localhost at your selected browser.
 
-8 - For curiosity, if you want to open the mercadolivre.db file in the data folder, I recommend using dbeaver and passing a SQL command there as Select * from laptop(s)
+8 - For curiosity, if you want to open the mercadolivre.db file in the data folder, I recommend using dbeaver and passing a SQL command there as Select * from laptop
 
 # Thank you so much for your time and have a great day.
 
