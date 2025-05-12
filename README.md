@@ -13,7 +13,7 @@ A ETL structure usually starts with the understand of the problem, which can be 
 
 # Scrapy documentation: https://scrapy.org/
 
-1 - Most commont cli command: Scrapy crawl spider name -o(to save)
+1 - Most commont cli command: Scrapy crawl spider name -o(to save) file.ext
 
 2 - Scrapy shell -> Fetch(url)
 
